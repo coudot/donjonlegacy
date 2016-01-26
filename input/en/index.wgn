@@ -1,0 +1,9 @@
+title: Home
+text_menu_watch: Watch
+----
+
+<!-- tmpl_include name="head.inc"-->
+
+<!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="foot.inc"-->
