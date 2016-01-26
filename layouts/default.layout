@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="DonJon Legacy">
+    <meta name"keywords" content="donjon,fantasy,legacy,webserie">
+    <meta name="author" content="Guilhem,KPTN">
+    <link rel="shortcut icon" href="favicon.png">
+
+    <!-- tmpl_if name='title' -->
+    <title>DonJon Legacy - <!-- tmpl_var name='title' escape='html' --></title>
+    <!-- tmpl_else -->
+    <title>DonJin Legacy</title>
+    <!-- /tmpl_if -->
+
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="css/bootstrap-theme.min.css" rel="stylesheet"> -->
+
+    <!-- FontAwesome CSS -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Hover CSS -->
+    <link href="css/hover-min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="css/donjon.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+  <div id="wrap">
+
+    <!-- tmpl_var name='content' -->
+
+  </div>
+
+  <div id="footer" class="text-center">
+        <a class="btn btn-default hvr-bounce-to-right" href="https://twitter.com/DonJon_Legacy"><i class="fa fa-twitter"></i><span class="hidden-xs"> Twitter</span></a>
+        <a class="btn btn-default hvr-bounce-to-right" href="https://www.facebook.com/donjonlegacy"><i class="fa fa-facebook"></i><span class="hidden-xs"> Facebook</span></a>
+        <a class="btn btn-default hvr-bounce-to-right" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i><span class="hidden-xs"> Youtube</span></a>
+        <a class="btn btn-default hvr-bounce-to-right" href="http://www.dailymotion.com/donjonlegacy"><i class="fa fa-video-camera"></i><span class="hidden-xs"> Dailymotion</span></a>
+  </div>
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="js/jquery-1.10.2.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>
