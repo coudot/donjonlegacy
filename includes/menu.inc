@@ -15,6 +15,10 @@
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li><a class="hvr-bounce-to-right" href="watch.html"><i class="fa fa-film"></i><!-- tmpl_var name="text_menu_watch" --></a></li>
+                <li><a class="hvr-bounce-to-right" href="hall.html"><i class="fa fa-users"></i><!-- tmpl_var name="text_menu_hall" --></a></li>
+                <li><a class="hvr-bounce-to-right" href="dungeon.html"><i class="fa fa-map-o"></i><!-- tmpl_var name="text_menu_dungeon" --></a></li>
+                <li><a class="hvr-bounce-to-right" href="credits.html"><i class="fa fa-hand-spock-o"></i><!-- tmpl_var name="text_menu_credits" --></a></li>
+                <li><a class="hvr-bounce-to-right" href="contact.html"><i class="fa fa-envelope"></i><!-- tmpl_var name="text_menu_contact" --></a></li>
               </ul>
             </div>
           </div>
