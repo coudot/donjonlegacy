@@ -8,15 +8,24 @@ body {
   background: url("../images/background.jpg") no-repeat center fixed;
   background-size: cover;
   font-size: 14pt;
+  padding-top:10px;
 }
 
 a, a:hover {
   text-decoration: none;
 }
 
-/* Override bootstrap btn style */
+/* Override bootstrap styles */
 .btn {
   white-space: normal;
+}
+
+.navbar {
+  font-size: inherit;
+}
+
+ul.navbar-nav i.fa {
+  margin-right: 8px;
 }
 
 /* Wrapper for page content to push down footer */
