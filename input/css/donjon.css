@@ -7,12 +7,18 @@ body {
   height: 100%;
   background: url("../images/background.jpg") no-repeat center fixed;
   background-size: cover;
-  font-size: 14pt;
+  font-family: fantasy, cursive, sans-serif;
+  font-size: 12pt;
   padding-top:10px;
 }
 
 a, a:hover {
   text-decoration: none;
+}
+
+div#content, div.navbar-default {
+  background: rgb(78, 93, 108);
+  background: rgba(78, 93, 108, 0.8);
 }
 
 /* Override bootstrap styles */

@@ -4,10 +4,21 @@ text_menu_hall: Hall
 text_menu_dungeon: Dungeon
 text_menu_credits: Credits
 text_menu_contact: Contact
+text_home_hi: Hi jerks!
+text_home_what: DonJon Legacy is a fucking comical dungeonary series! It's Bad Fantasy!
+text_home_pitch_title: Pitch
+text_home_pitch: Jon is a good man who come discovering into ruins the legacy from an unknow father. 
+text_home_info: To be inform about the comings
+text_home_news: News
+text_home_calendar: Calendar
+text_home_calendar_201607: July 2016: Complete Season 1 (streaming)
+text_home_calendar_201701: January 2017: Season 2 - Episode 1 (streaming) - Begining of a crowdfunding
 ----
 
 <!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="home.inc"-->
 
 <!-- tmpl_include name="foot.inc"-->
