@@ -1,7 +1,7 @@
     <div class="navbar-wrapper">
 
         <div class="navbar navbar-default navbar-static-top" role="navigation">
-          <div class="container">
+          <div class="container-fluid">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -18,6 +18,10 @@
                 <li><a class="hvr-bounce-to-right" href="dungeon.html"><i class="fa fa-map-o"></i><!-- tmpl_var name="text_menu_dungeon" --></a></li>
                 <li><a class="hvr-bounce-to-right" href="credits.html"><i class="fa fa-hand-spock-o"></i><!-- tmpl_var name="text_menu_credits" --></a></li>
                 <li><a class="hvr-bounce-to-right" href="contact.html"><i class="fa fa-envelope"></i><!-- tmpl_var name="text_menu_contact" --></a></li>
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="/fr/<!-- tmpl_var name="link" -->"><img src="/images/fr.png" alt="fr" class="hvr-grow" /></a></li>
+                <li><a href="/en/<!-- tmpl_var name="link" -->"><img src="/images/en.png" alt="en" class="hvr-grow" /></a></li>
               </ul>
             </div>
           </div>
