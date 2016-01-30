@@ -1,5 +1,4 @@
     <div class="navbar-wrapper">
-      <div class="container">
 
         <div class="navbar navbar-default navbar-static-top" role="navigation">
           <div class="container">
@@ -24,5 +23,6 @@
           </div>
         </div>
 
-      </div>
     </div>
+
+    <div id="content" class="panel panel-default panel-body">
