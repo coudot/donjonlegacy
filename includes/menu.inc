@@ -20,8 +20,12 @@
                 <li><a class="hvr-bounce-to-right" href="contact.html"><i class="fa fa-envelope"></i><!-- tmpl_var name="text_menu_contact" --></a></li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="/fr/<!-- tmpl_var name="link" -->"><img src="/images/fr.png" alt="fr" class="hvr-grow" /></a></li>
-                <li><a href="/en/<!-- tmpl_var name="link" -->"><img src="/images/en.png" alt="en" class="hvr-grow" /></a></li>
+                <!-- tmpl_if name="fr-link" -->
+                <li><a href="<!-- tmpl_var name="fr-link" -->"><img src="/images/fr.png" alt="fr" class="hvr-grow" /></a></li>
+                <!-- /tmpl_if -->
+                <!-- tmpl_if name="en-link" -->
+                <li><a href="<!-- tmpl_var name="en-link" -->"><img src="/images/en.png" alt="en" class="hvr-grow" /></a></li>
+                <!-- /tmpl_if -->
               </ul>
             </div>
           </div>
