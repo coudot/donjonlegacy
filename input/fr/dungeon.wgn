@@ -1,0 +1,14 @@
+title: Donjon
+en-link: /en/dungeon.html
+text_menu_watch: À voir
+text_menu_hall: Hall
+text_menu_dungeon: Donjon
+text_menu_credits: Crédits
+text_menu_contact: Contact
+----
+
+<!-- tmpl_include name="head.inc"-->
+
+<!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="foot.inc"-->

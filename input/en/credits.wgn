@@ -1,0 +1,14 @@
+title: Credits
+fr-link: /fr/credits.html
+text_menu_watch: Watch
+text_menu_hall: Hall
+text_menu_dungeon: Dungeon
+text_menu_credits: Credits
+text_menu_contact: Contact
+----
+
+<!-- tmpl_include name="head.inc"-->
+
+<!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="foot.inc"-->
