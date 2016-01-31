@@ -1,0 +1,22 @@
+title: À voir
+en-link: /en/watch.html
+text_menu_watch: À voir
+text_menu_hall: Hall
+text_menu_dungeon: Donjon
+text_menu_credits: Crédits
+text_menu_contact: Contact
+text_watch_channels: Nos chaînes :
+text_watch_season: Saison
+text_watch_subtitles: Version française / sous-titres anglais
+text_watch_201602: février 2016
+text_watch_201607: juillet 2016
+text_watch_201701: janvier 2017
+----
+
+<!-- tmpl_include name="head.inc"-->
+
+<!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="watch.inc"-->
+
+<!-- tmpl_include name="foot.inc"-->
