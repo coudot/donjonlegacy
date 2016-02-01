@@ -16,9 +16,9 @@ a, a:hover {
   text-decoration: none;
 }
 
-div#content, div.navbar-default {
-  background: rgb(78, 93, 108);
-  background: rgba(78, 93, 108, 0.8);
+div#content {
+  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.8);
 }
 
 /* Override bootstrap styles */
