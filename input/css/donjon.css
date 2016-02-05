@@ -7,7 +7,6 @@ body {
   height: 100%;
   background: url("../images/background.jpg") no-repeat center fixed;
   background-size: cover;
-  font-family: fantasy, cursive, sans-serif;
   font-size: 12pt;
   padding-top:10px;
 }
