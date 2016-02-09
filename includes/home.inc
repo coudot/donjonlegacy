@@ -4,8 +4,10 @@
     <h2><tmpl_var name="text_home_hi" /></h2>
     <p><tmpl_var name="text_home_what" /></p>
     <hr />
+    <div class="alert alert-info hvr-grow-shadow">
     <h2><tmpl_var name="text_home_pitch_title" /></h2>
     <p><tmpl_var name="text_home_pitch" /></p>
+    </div>
     <hr />
     <h2><tmpl_var name="text_home_info" /></h2>
     <p>
