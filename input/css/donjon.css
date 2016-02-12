@@ -34,6 +34,47 @@ ul.navbar-nav i.fa {
   margin-right: 8px;
 }
 
+/* Magic cards */
+div.magiccard {
+  border: 20px #000 solid;
+  border-radius: 20px;
+  text-align: center;
+  margin: 10px auto;
+  max-width: 350px;
+}
+
+div.defenders {
+  background: url("../images/03b.jpg");
+}
+
+div.magiccard h2 {
+  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  margin: 20px auto;
+  padding: 10px 5px;
+  width: 80%;
+  font-size: 14pt;
+}
+
+div.magiccard img {
+  border-radius: 5px;
+  margin: auto;
+  width: 90%;
+}
+
+div.magiccard div.panel {
+  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.9);
+  width: 90%;
+  text-align: left;
+  margin: 20px auto;
+}
+
+div.magiccard table th {
+  width: 40%;
+}
+
 /* Wrapper for page content to push down footer */
 #wrap {
   min-height: 100%;
