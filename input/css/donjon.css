@@ -38,29 +38,35 @@ ul.navbar-nav i.fa {
 div.magiccard {
   border: 20px #000 solid;
   border-radius: 20px;
-  text-align: center;
   margin: 10px auto;
-  max-width: 350px;
+  padding: 10px 0;
+  max-width: 380px;
 }
 
 div.defenders {
   background: url("../images/03b.jpg");
 }
 
-div.magiccard h2 {
+div.magiccard div.cardtitle {
   background: rgb(255, 255, 255);
   background: rgba(255, 255, 255, 0.8);
-  border-radius: 20px;
-  margin: 20px auto;
+  border-radius: 10px / 20px;
+  margin: 0px auto;
   padding: 10px 5px;
-  width: 80%;
-  font-size: 14pt;
+  width: 95%;
+  font-size: 12pt;
+  font-weight: bold;
+  text-shadow: 1px 1px 5px #777;
+  text-align: left;
+  border: 5px #008cba solid;
+  box-shadow: -1px 1px 0px 1px #000;
 }
 
 div.magiccard img {
-  border-radius: 5px;
-  margin: auto;
+  border: 5px #008cba solid;
+  margin: 0px auto;
   width: 90%;
+  box-shadow: -1px 1px 0px 1px #000;
 }
 
 div.magiccard div.panel {
@@ -68,7 +74,9 @@ div.magiccard div.panel {
   background: rgba(255, 255, 255, 0.9);
   width: 90%;
   text-align: left;
-  margin: 20px auto;
+  margin: 0px auto;
+  border: 5px #008cba solid;
+  box-shadow: -1px 1px 0px 1px #000;
 }
 
 div.magiccard table th {

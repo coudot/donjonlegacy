@@ -14,7 +14,7 @@ text_hall_category: Catégorie
 text_hall_rank: Rang 
 text_hall_ability: Capacité spéciale 
 text_hall_weakness: Handicap
-text_hall_weapon: Armne favorite 
+text_hall_weapon: Arme favorite 
 text_hall_alignment: Alignement
 ----
 
@@ -31,13 +31,20 @@ text_hall_alignment: Alignement
 
   <!-- tmpl_loop name='defenders' -->
 
-  <div class="col-md-6 text-center">
+  <div class="col-sm-6 text-center">
 
   <div class="magiccard defenders hvr-grow">
 
-  <h2><tmpl_var name="title"></h2>
+  <div class="cardtitle row">
+    <div class="col-sm-9"><tmpl_var name="title"></div>
+    <div class="col-sm-3 text-right"><span class="badge"><tmpl_var name="text_hall_rank"> <tmpl_var name="rank"></span></div>
+  </div>
 
   <img src="/images/<tmpl_var name="img">" class="img-responsive" alt="<tmpl_var name="title">" />
+
+  <div class="cardtitle">
+    <tmpl_var name="category"> - <tmpl_var name="class">
+  </div>
 
   <div class="panel">
     <table class="table table-condensed table-striped">
@@ -48,18 +55,6 @@ text_hall_alignment: Alignement
       <tr>
         <th><tmpl_var name="text_hall_lastname"></th>
         <td><tmpl_var name="lastname"></td>
-      </tr>
-      <tr>
-        <th><tmpl_var name="text_hall_class"></th>
-        <td><tmpl_var name="class"></td>
-      </tr>
-      <tr>
-        <th><tmpl_var name="text_hall_category"></th>
-        <td><tmpl_var name="category"></td>
-      </tr>
-      <tr>
-        <th><tmpl_var name="text_hall_rank"></th>
-        <td><tmpl_var name="rank"></td>
       </tr>
       <tr>
         <th><tmpl_var name="text_hall_ability"></th>
