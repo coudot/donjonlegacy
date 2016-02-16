@@ -20,6 +20,16 @@ div#content {
   background: rgba(255, 255, 255, 0.8);
 }
 
+table.credits {
+  border: 1px solid black;
+  margin: 10px auto;
+  font-size: inherit;
+}
+
+table.credits th {
+  width: 50%;
+}
+
 /* Override bootstrap styles */
 .btn {
   white-space: normal;
