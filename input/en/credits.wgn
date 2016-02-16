@@ -5,10 +5,51 @@ text_menu_hall: Hall
 text_menu_dungeon: Dungeon
 text_menu_credits: Credits
 text_menu_contact: Contact
+text_credits_intro: We all worked for free while holding down other. Nobody earned anything from this project but we are trying to professionalize the DonJon Legacy in order to offer you a longer and better series. 
+text_credits_creator: Creator / Scenarist / Art direction 
+text_credits_director: Director / Head editor
+text_credits_main_producer: Main Producer
+text_credits_producer: Producer
+text_credits_dungeon_master: The Dungeon Master
+text_credits_beast_master: The Beast Master
+text_credits_stagehand: The Stangehand
+text_credits_demonist: The Demonist
+text_credits_grumpy_gnome: The Grumpy Gnome
+text_credits_plunderer: The Plunderer
+text_credits_intruder: The Intruder
+text_credits_dungeon_heart_voice: The Dungeon's Heart voice
+text_credits_stone_truth_voice: The Stone of Truth voice
+text_credits_assistant_director: Assistant director
+text_credits_photography_director: Director of photography
+text_credits_sound_engineer: Sound engineer / Sound mixing
+text_credits_first_assistant_camera: Sound engineer / Sound mixing
+text_credits_assistant_camera: Assistant camera
+text_credits_electrician: Electrician
+text_credits_costumier: Costumier
+text_credits_makeup: Make-up
+text_credits_motion_design: Motion design / Compositing
+text_credits_puppeteer: Puppeteer
+text_credits_colour_grading: Colour grading
+text_credits_credits: Opening and closing credits
+text_credits_3dfx: Special 3D FX
+text_credits_music_composer: Music composer
+text_credits_translator: Translator
+text_credits_costume_help: Costume help
+text_credits_managing_help: Managing help
+text_credits_decoration_help: Decoration et Accessories help
+text_credits_special_thanks: Special thanks to
+text_credits_more_thanks: More thanks to
+text_credits_locations: Locations of shooting
+text_credits_webmaster: Webmaster / Webdesign
+text_credits_webeditor: Web editor, Community manager, Marketing
+text_credits_graphic_artist: Graphic artist
+text_credits_designer: Designer
 ----
 
 <!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="credits.inc"-->
 
 <!-- tmpl_include name="foot.inc"-->
