@@ -5,10 +5,27 @@ text_menu_hall: Hall
 text_menu_dungeon: Dungeon
 text_menu_credits: Credits
 text_menu_contact: Contact
+text_dungeon_backtomap: Back to the dungeon map
+text_dungeon_map_title: The Dungeon Map
+text_dungeon_map_description: This mecanical and magical artefact was created by a gobelin. It allows the Dungeon Master to detect and locate intruders and defenders using magical lights. It allows too to give orders using an ancient communication system, but also to activate traps from distance. It put up with a lot during past clashes and has been restored. It does not always work correctly. 
+text_dungeon_ruins_title: The Ruins
+text_dungeon_ruins_description: During the reign of the previous Dungeon Master, a fortress accessible only by a  bridge protected the evil underground dungeon's gate. The scary creatures who lived in this place and the incredible powers of the old master enslaved a vast swarthes of territory. A terrible battle defeated the forces which dominated this period of darkness turned this place with deserted ruins.
+text_dungeon_heart_title: The Dungeon's Heart
+text_dungeon_heart_description: This a deep underground room in which the Dungeon's Heart is beats. It is a magical and organical artefact which lived in a symbiotic relationship with those who are chosen to become the Dungeon Masters. It provides them unbelievable magical powers. The Dungeon's Heart cannot die but the Dungeon's Master could die if the Dungeon's Heart were to be pierced by the sword of some brave hero.
+text_dungeon_masterroom_title: The Master's Room
+text_dungeon_masterroom_description: In this adjoining room the size of a closet next to  the Dungeon's Heart, the Stagehand has punished the Master bedroom with makeshift furniture salvaged from the room.
+text_dungeon_hall_title: The  Hall of Guardians
+text_dungeon_hall_description: This is the closest room to the entry. Cooking and eating takes place here. All kinds of foods are stockpiled here. The team meets in this hall regularly in order to debriefe. They usually take turns for the guard duty role to prevent intruders entry.
+text_dungeon_summoning_title: The Summoning Chamber
+text_dungeon_summoning_description: This is the Demonist's room. There is a pentagram painted on the floor with human blood allowing her to summon demons. Into an alcove. She also receives various male visitors in her bed.
+text_dungeon_cave_title: The Creatures Cave
+text_dungeon_cave_description: In this cave, the Beast Master trains savage and evil creatures to massacre the potential robbers, or ever better: just frighten them.
 ----
 
 <!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="dungeon.inc"-->
 
 <!-- tmpl_include name="foot.inc"-->
