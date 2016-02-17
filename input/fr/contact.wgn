@@ -5,10 +5,24 @@ text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
 text_menu_contact: Contact
+text_contact_press_release: Dossier de presse
+text_contact_download: Télécharger le dossier de presse
+text_contact_mail: Nous envoyer un message
+text_contact_read: Nous nous battrons pour vous lire
+text_contact_team: Vous voulez écrire à l'équipe
+text_contact_help: Vous voulez proposer votre aide
+text_contact_interview: Vous souhaitez une interview
+text_contact_productor: Vous êtes producteur / diffuseur
+text_contact_advertiser: Vous êtes annonceur
+text_contact_evening: Vous voulez nous inviter à un événement
+text_contact_other: Autres
+text_contact_nomail: Envoi de message temporairement non fonctionnel, merci de nous contacter par les réseaux sociaux
 ----
 
 <!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="contact.inc"-->
 
 <!-- tmpl_include name="foot.inc"-->
