@@ -6,14 +6,14 @@ text_menu_dungeon: Donjon
 text_menu_credits: Crédits
 text_menu_contact: Contact
 text_home_hi: Salut les connards&nbsp;!
-text_home_what: DonJon Legacy est une putain de série comique de Bad Fantasy comique complètement donjonesque&nbsp;!
+text_home_what: DonJon Legacy est une putain de série indépendante de Bad Fantasy comique complètement donjonesque&nbsp;!
 text_home_pitch_title: L'histoire
 text_home_pitch: Jon est un homme bon qui vient découvrir dans des ruines l'héritage d'un père qu'il n'a pas connu.
 text_home_info: Se tenir informer des sorties
 text_home_news: Actus
 text_home_calendar: Calendrier
 text_home_calendar_201607: Juillet 2016&nbsp;: Saison 1 complète en streaming
-text_home_calendar_201701: Janvier 2017&nbsp;: Saison 2 - épisode 1 en streaming - lancement d'un crowdfunding
+text_home_calendar_201701: Janvier 2017&nbsp;: Saison 2 - épisode 1 en streaming
 ----
 
 <!-- tmpl_include name="head.inc"-->
