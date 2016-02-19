@@ -15,7 +15,7 @@
   <div class="col-sm-6">
     <img src="/images/fighttoread.gif" alt="<!-- tmpl_var name="text_contact_read" -->" class="img-responsive" />
     <br />
-    <div class="alert alert-info"><!-- tmpl_var name="text_contact_read" --></div>
+    <div class="alert alert-info hvr-grow-shadow"><!-- tmpl_var name="text_contact_read" --></div>
   </div>
 
   <div class="col-sm-6">
@@ -35,7 +35,7 @@
 
       <br />
 
-      <div class="nomail alert alert-danger"><!-- tmpl_var name="text_contact_nomail" --></div>
+      <div class="nomail alert alert-danger hvr-grow-shadow"><!-- tmpl_var name="text_contact_nomail" --></div>
     </form>
   </div>
 </div>

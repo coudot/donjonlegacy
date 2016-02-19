@@ -33,7 +33,7 @@ text_hall_alignment: Alignement
 
   <div class="col-sm-6 text-center">
 
-  <div class="magiccard defenders hvr-grow">
+  <div class="magiccard defenders hvr-grow-shadow">
 
   <div class="cardtitle row">
     <div class="col-sm-9"><tmpl_var name="title"></div>
@@ -43,7 +43,7 @@ text_hall_alignment: Alignement
   <img src="/images/<tmpl_var name="img">" class="img-responsive" alt="<tmpl_var name="title">" />
 
   <div class="cardtitle">
-    <tmpl_var name="category"> - <tmpl_var name="class">
+    <tmpl_var name="category">
   </div>
 
   <div class="panel">
