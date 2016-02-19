@@ -44,6 +44,10 @@ ul.navbar-nav i.fa {
   margin-right: 8px;
 }
 
+.hvr-buzz {
+  display: inherit;
+}
+
 /* Magic cards */
 div.magiccard {
   border: 20px #000 solid;
