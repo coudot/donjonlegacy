@@ -9,7 +9,7 @@
 <table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_creator" --></th>
-    <td>Guilhem <a href="https://www.facebook.com/Guilhem-53297726330/"><i class="fa fa-facebook-official"></i></a></td>
+    <td>Guilhem <a href="https://www.facebook.com/Guilhem-53297726330/"><i class="fa fa-facebook-official"></i></a> <a href="https://twitter.com/Guilhem0"><i class="fa fa-twitter-square"></i></a> <a href="http://guilhem0.free.fr/"><i class="fa fa-globe"></i></a></td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_director" --></th>
@@ -20,15 +20,11 @@
 <table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_main_producer" --></th>
-    <td>Guilhem <a href="https://www.facebook.com/Guilhem-53297726330/"><i class="fa fa-facebook-official"></i></a></td>
+    <td>Guilhem</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_producer" --></th>
-    <td>Les Films du Chat Blanc</td>
-  </tr>
-  <tr>
-    <th><!-- tmpl_var name="text_credits_producer" --></th>
-    <td>Onze Création</td>
+    <td>Association Onze Création</td>
   </tr>
 </table>
 
@@ -86,7 +82,7 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_first_assistant_camera" --></th>
-    <td>Florent Larrivien</td>
+    <td>Florent Larriven</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_assistant_camera" --></th>
@@ -150,7 +146,7 @@
       Yohan Pannet<br />
       Michel-Ange Taibi<br />
       Ahlem Zardoumi<br />
-      Cathy<br />
+      Catherine Homsy<br />
     </td>
   </tr>
   <tr>
@@ -169,13 +165,14 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_special_thanks" --></th>
     <td>
-      Studio Arte<br />
+      ARTE Studio<br />
+      Panalux<br />
       Puzzle Vidéos<br />
       Ville de Chalons-en-Champagne<br />
       Conseil Général de l’Aisne<br />
       Les Amis de Montcornet<br />
       La Compagnie du Crépuscule<br />
-      Onze Création<br />
+      Association Onze Création<br />
       Audrey Andrasi<br />
     </td>
   </tr>
@@ -196,8 +193,8 @@
       Clément Zanon<br />
       Effet de Steel<br />
       Le restaurant de Fère-en-Tardenois<br />
-      Resto jap<br />
-      Brasserie <br />
+      Hoki Sushi<br />
+      Le Comptoir de la Licorne<br />
       Amanda et Nadine<br />
       Aymeric<br />
       Cyril<br />
@@ -220,14 +217,11 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_webeditor" --></th>
-    <td>Guilhem <a href="https://www.facebook.com/Guilhem-53297726330/"><i class="fa fa-facebook-official"></i></a></td>
+    <td>Guilhem</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_graphic_artist" --></th>
-    <td>
-      Florent Brasseur<br />
-      Guilhem <a href="https://www.facebook.com/Guilhem-53297726330/"><i class="fa fa-facebook-official"></i></a><br />
-    </td>
+    <td>Guilhem</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_designer" --></th>
