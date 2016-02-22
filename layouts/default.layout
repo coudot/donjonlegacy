@@ -4,16 +4,29 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="DonJon Legacy">
-    <meta name="keywords" content="donjon,fantasy,legacy,webserie">
-    <meta name="author" content="Guilhem,KPTN">
+    <meta name="description" content="DonJon Legacy is a fucking indie comical dungeonary series! It's Bad Fantasy!">
+    <meta name="keywords" content="donjon,fantasy,legacy,webserie,indie,comical,dugeon,bad,serie,donjon,comique,indépendant">
+    <meta name="author" content="Guilhem">
     <link rel="icon" type="image/png" href="/favicon.png">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+    <!-- Facebook -->
+    <meta property="og:title" content="DonJon Legacy" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://www.donjonlegacy.com/images/avatar_djl.png" />
+    <meta property="og:url" content="http://www.donjonlegacy.com" />
+    <meta property="og:description" content="DonJon Legacy is a fucking indie comical dungeonary series! It's Bad Fantasy!" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="DonJon Legacy" />
+    <meta name="twitter:description" content="DonJon Legacy is a fucking indie comical dungeonary series! It's Bad Fantasy!" />
+    <meta name="twitter:image" content="http://www.donjonlegacy.com/images/avatar_djl.png" />
 
     <!-- tmpl_if name='title' -->
     <title>DonJon Legacy - <!-- tmpl_var name='title' escape='html' --></title>
     <!-- tmpl_else -->
-    <title>DonJin Legacy</title>
+    <title>DonJon Legacy</title>
     <!-- /tmpl_if -->
 
     <!-- Bootstrap CSS -->
@@ -51,7 +64,6 @@
   <!-- Placed at the end of the document so the pages load faster -->
   <script src="/js/jquery-1.10.2.min.js"></script>
   <script src="/js/bootstrap.min.js"></script>
-
 
   </body>
 
