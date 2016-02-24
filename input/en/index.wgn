@@ -22,4 +22,8 @@ text_home_calendar_201701: January 2017: Season 2 - Episode 1 (streaming)
 
 <!-- tmpl_include name="home.inc"-->
 
+<!-- tmpl_include name="menu_foot.inc"-->
+
+<!-- tmpl_include name="banner_en.inc"-->
+
 <!-- tmpl_include name="foot.inc"-->

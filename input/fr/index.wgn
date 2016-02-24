@@ -22,4 +22,8 @@ text_home_calendar_201701: Janvier 2017&nbsp;: Saison 2 - épisode 1 en streamin
 
 <!-- tmpl_include name="home.inc"-->
 
+<!-- tmpl_include name="menu_foot.inc"-->
+
+<!-- tmpl_include name="banner_fr.inc"-->
+
 <!-- tmpl_include name="foot.inc"-->

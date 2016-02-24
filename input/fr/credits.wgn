@@ -52,4 +52,8 @@ text_credits_designer: Dessinateur
 
 <!-- tmpl_include name="credits.inc"-->
 
+<!-- tmpl_include name="menu_foot.inc"-->
+
+<!-- tmpl_include name="banner_fr.inc"-->
+
 <!-- tmpl_include name="foot.inc"-->

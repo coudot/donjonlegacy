@@ -25,4 +25,8 @@ text_contact_nomail: Envoi de message temporairement non fonctionnel, merci de n
 
 <!-- tmpl_include name="contact.inc"-->
 
+<!-- tmpl_include name="menu_foot.inc"-->
+
+<!-- tmpl_include name="banner_fr.inc"-->
+
 <!-- tmpl_include name="foot.inc"-->

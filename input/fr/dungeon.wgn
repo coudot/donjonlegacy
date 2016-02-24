@@ -28,4 +28,8 @@ text_dungeon_cave_description: C'est dans cette pièce que le Dresseur élève l
 
 <!-- tmpl_include name="dungeon.inc"-->
 
+<!-- tmpl_include name="menu_foot.inc"-->
+
+<!-- tmpl_include name="banner_fr.inc"-->
+
 <!-- tmpl_include name="foot.inc"-->
