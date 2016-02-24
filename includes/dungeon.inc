@@ -4,6 +4,11 @@
 
   <hr />
 
+  <div class="alert alert-warning hidden-xs hvr-trim">
+    <i class="fa fa-hand-pointer-o"></i>
+    <!-- tmpl_var name="text_dungeon_map_help" -->
+  </div>
+
   <img src="/images/carte.jpg" alt="<!-- tmpl_var name="text_dungeon_map_title" -->" usemap="#Map" class="img-thumbnail hidden-xs" />
   <img src="/images/carte.jpg" alt="<!-- tmpl_var name="text_dungeon_map_title" -->" class="img-responsive hidden-sm hidden-md hidden-lg" />
 

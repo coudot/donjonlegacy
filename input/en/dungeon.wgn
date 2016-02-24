@@ -6,6 +6,7 @@ text_menu_dungeon: Dungeon
 text_menu_credits: Credits
 text_menu_contact: Contact
 text_dungeon_backtomap: Back to the dungeon map
+text_dungeon_map_help: Click on the map to discover the locations
 text_dungeon_map_title: The Dungeon Map
 text_dungeon_map_description: This mecanical and magical artefact was created by a gobelin. It allows the Dungeon Master to detect and locate intruders and defenders using magical lights. It allows too to give orders using an ancient communication system, but also to activate traps from distance. It put up with a lot during past clashes and has been restored. It does not always work correctly. 
 text_dungeon_ruins_title: The Ruins
