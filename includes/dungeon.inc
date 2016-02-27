@@ -17,8 +17,8 @@
     <area alt="<!-- tmpl_var name="text_dungeon_hall_title" -->" title="<!-- tmpl_var name="text_dungeon_hall_title" -->" data-toggle="modal" href="#hall" shape="poly" coords="123,149,194,241,299,172,246,94" />
     <area alt="<!-- tmpl_var name="text_dungeon_cave_title" -->" title="<!-- tmpl_var name="text_dungeon_cave_title" -->" data-toggle="modal" href="#cave" shape="poly" coords="316,98,402,159,523,91,437,27" />
     <area alt="<!-- tmpl_var name="text_dungeon_summoning_title" -->" title="<!-- tmpl_var name="text_dungeon_summoning_title" -->" data-toggle="modal" href="#summoning" shape="poly" coords="434,252,510,206,592,254,559,324" />
-    <area alt="<!-- tmpl_var name="text_dungeon_heart_title" -->" title="<!-- tmpl_var name="text_dungeon_heart_title" -->" data-toggle="modal" href="#heart" shape="poly" coords="470,307,414,359,499,424,569,370" />
-    <area alt="<!-- tmpl_var name="text_dungeon_masterroom_title" -->" title="<!-- tmpl_var name="text_dungeon_masterroom_title" -->" data-toggle="modal" href="#masterroom" shape="poly" coords="491,411,525,424,511,441,468,433" />
+    <area alt="<!-- tmpl_var name="text_dungeon_heart_title" -->" title="<!-- tmpl_var name="text_dungeon_heart_title" -->" data-toggle="modal" href="#heart" shape="poly" coords="488,338,448,360,507,395,538,365" />
+    <area alt="<!-- tmpl_var name="text_dungeon_masterroom_title" -->" title="<!-- tmpl_var name="text_dungeon_masterroom_title" -->" data-toggle="modal" href="#masterroom" shape="poly" coords="501,398,480,419,516,434,538,410" />
   </map>
 
   <hr />
