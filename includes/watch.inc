@@ -15,7 +15,7 @@
     <h2><tmpl_var name="text_watch_season" /> 1</h2>
     <p><i><tmpl_var name="text_watch_subtitles" /></i></p>
     <ul>
-      <li>Teaser (<tmpl_var name="text_watch_201602" />)</li>
+      <li><a href="https://www.youtube.com/watch?v=RMXDqLgdjBg">Teaser (<tmpl_var name="text_watch_201602" />)</a></li>
     </ul>
     <ul>
       <li>Episode 1 (<tmpl_var name="text_watch_201607" />)</li>

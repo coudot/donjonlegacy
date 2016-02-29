@@ -4,6 +4,10 @@
     <h2><tmpl_var name="text_home_hi" /></h2>
     <p><tmpl_var name="text_home_what" /></p>
     <hr />
+    <div class="text-center embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/RMXDqLgdjBg" allowfullscreen></iframe>
+    </div>
+    <hr />
     <div class="alert alert-info hvr-grow-shadow">
     <h2><tmpl_var name="text_home_pitch_title" /></h2>
     <p><tmpl_var name="text_home_pitch" /></p>
