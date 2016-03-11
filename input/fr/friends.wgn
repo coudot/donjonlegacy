@@ -1,0 +1,27 @@
+title: Amis
+en-link: /en/friends.html
+text_menu_watch: À voir
+text_menu_hall: Hall
+text_menu_dungeon: Donjon
+text_menu_credits: Crédits
+text_menu_contact: Contact
+text_menu_friends: Amis
+text_friends_intro: Ils croient en JDL. Ils ont parlé de nous (ou nous ont autorisé à parlé de DJL) et on les en remercie.
+text_friends_title_webseries: Webséries – Séries – Personnalités
+text_friends_title_press: Presse et blogs
+text_friends_title_forums: Forums
+text_friends_title_facegroups: Facegroupes
+text_friends_title_webbroadcasters: Diffuseurs Web
+----
+
+<!-- tmpl_include name="head.inc"-->
+
+<!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="friends.inc"-->
+
+<!-- tmpl_include name="menu_foot.inc"-->
+
+<!-- tmpl_include name="banner_fr.inc"-->
+
+<!-- tmpl_include name="foot.inc"-->
