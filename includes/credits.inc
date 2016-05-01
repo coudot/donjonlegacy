@@ -198,6 +198,9 @@
       Amanda et Nadine<br />
       Aymeric<br />
       Cyril<br />
+      Pascal Sottovia<br />
+      Jean Buono<br />
+      Pascale Brahamsha<br />
     </td>
   </tr>
   <tr>
@@ -206,6 +209,7 @@
       Caves médiévales de Chalons-en-Champagne (France 51)<br />
       Château de Fère-en-Tardenois (France 02)<br />
       Château de Montcornet (France 08)<br />
+      ARTE Studio (France 92)<br />
     </td>
   </tr>
 </table>
