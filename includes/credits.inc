@@ -85,10 +85,6 @@
     <td>Florent Larriven</td>
   </tr>
   <tr>
-    <th><!-- tmpl_var name="text_credits_assistant_camera" --></th>
-    <td></td>
-  </tr>
-  <tr>
     <th><!-- tmpl_var name="text_credits_electrician" --></th>
     <td>Mars Bais</td>
   </tr>
@@ -107,10 +103,6 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_puppeteer" --></th>
     <td>Ionah Mélin</td>
-  </tr>
-  <tr>
-    <th><!-- tmpl_var name="text_credits_colour_grading" --></th>
-    <td></td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_credits" --></th>
