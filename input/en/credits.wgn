@@ -46,6 +46,7 @@ text_credits_webmaster: Webmaster / Webdesign
 text_credits_webeditor: Web editor, Community manager, Marketing
 text_credits_graphic_artist: Graphic artist
 text_credits_designer: Designer
+text_credits_graphic_designer: Graphic designer
 ----
 
 <!-- tmpl_include name="head.inc"-->

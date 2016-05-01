@@ -124,6 +124,10 @@
     <th><!-- tmpl_var name="text_credits_costume_help" --></th>
     <td>Thomas Vanicatte</td>
   </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_graphic_designer" --></th>
+    <td>Vincere Studio</td>
+  </tr>
 </table>
 
 <table class="credits table table-striped">
