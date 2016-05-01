@@ -187,6 +187,9 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_more_thanks" --></th>
     <td>
+      Pascal Sottovia<br />
+      Jean Buono<br />
+      Pascale Brahamsha<br />
       Nicolas Guilloz<br />
       Lyndy Davies<br />
       Marc Canova<br />
@@ -206,9 +209,6 @@
       Amanda et Nadine<br />
       Aymeric<br />
       Cyril<br />
-      Pascal Sottovia<br />
-      Jean Buono<br />
-      Pascale Brahamsha<br />
     </td>
   </tr>
   <tr>
