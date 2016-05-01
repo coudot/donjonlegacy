@@ -105,6 +105,10 @@
     <td>Ophélie Duchêne</td>
   </tr>
   <tr>
+    <th><!-- tmpl_var name="text_credits_makeup_ep3" --></th>
+    <td>Alexandra Moulié</td>
+  </tr>
+  <tr>
     <th><!-- tmpl_var name="text_credits_motion_design" --></th>
     <td>Nicolas Brasseur</td>
   </tr>
