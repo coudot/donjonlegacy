@@ -117,8 +117,8 @@
     <td>Nicolas Brasseur</td>
   </tr>
   <tr>
-    <th><!-- tmpl_var name="text_credits_3dfx" --></th>
-    <td></td>
+    <th><!-- tmpl_var name="text_credits_special_effects" --></th>
+    <td>Yohan Leroy</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_music_composer" --></th>
