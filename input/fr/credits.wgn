@@ -47,7 +47,8 @@ text_credits_webeditor: Rédacteur web, Community Manager, Marketing
 text_credits_graphic_artist: Graphiste
 text_credits_designer: Dessinateur
 text_credits_graphic_designer: Graphiste
-text_credits_camera_operator_ep3: Opératrice prise de vue ep3 
+text_credits_camera_operator_ep3: Opératrice prise de vue ep3
+text_credits_sound_recordist_ep3: Opérateur son ep3
 ----
 
 <!-- tmpl_include name="head.inc"-->

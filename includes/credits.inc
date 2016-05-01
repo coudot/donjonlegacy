@@ -81,6 +81,10 @@
     <td>Lucas Rollin</td>
   </tr>
   <tr>
+    <th><!-- tmpl_var name="text_credits_sound_recordist_ep3" --></th>
+    <td>Stephen Le Cocq</td>
+  </tr>
+  <tr>
     <th><!-- tmpl_var name="text_credits_first_assistant_camera" --></th>
     <td>Florent Larriven</td>
   </tr>
