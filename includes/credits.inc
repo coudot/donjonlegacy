@@ -85,6 +85,10 @@
     <td>Florent Larriven</td>
   </tr>
   <tr>
+    <th><!-- tmpl_var name="text_credits_camera_operator_ep3" --></th>
+    <td>Tiffany Sudre</td>
+  </tr>
+  <tr>
     <th><!-- tmpl_var name="text_credits_electrician" --></th>
     <td>Mars Bais</td>
   </tr>
