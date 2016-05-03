@@ -8,7 +8,7 @@ text_menu_contact: Contact
 text_menu_friends: Friends
 text_credits_intro: We all worked for free while holding down other. Nobody earned anything from this project but we are trying to professionalize the DonJon Legacy in order to offer you a longer and better series. 
 text_credits_creator: Creator / Scenarist / Art direction 
-text_credits_director: Director / Head editor
+text_credits_director: Director / Editor
 text_credits_main_producer: Main Producer
 text_credits_producer: Producer
 text_credits_dungeon_master: The Dungeon Master
@@ -20,36 +20,35 @@ text_credits_plunderer: The Plunderer
 text_credits_intruder: The Intruder
 text_credits_dungeon_heart_voice: The Dungeon's Heart voice
 text_credits_stone_truth_voice: The Stone of Truth voice
-text_credits_assistant_director: Assistant director
-text_credits_photography_director: Director of photography
-text_credits_sound_engineer: Sound engineer / Sound mixing
+text_credits_assistant_director: Assistant Director
+text_credits_photography_director: Cinematographer
+text_credits_sound_engineer: Sound Mixer
 text_credits_first_assistant_camera: Camera Operator
 text_credits_assistant_camera: Assistant camera
 text_credits_electrician: Electrician
 text_credits_costumier: Costumier
-text_credits_makeup: Make-up
-text_credits_motion_design: Motion design / Compositing
+text_credits_makeup: Special Effects Make-up Artist
 text_credits_puppeteer: Puppeteer
 text_credits_colour_grading: Colour grading
-text_credits_credits: Opening credits motion designer
-text_credits_special_effects: Special effects
+text_credits_credits: Opening Credits Motion Designer
+text_credits_special_effects: Special Effects
 text_credits_3dfx: Special 3D FX
-text_credits_music_composer: Music composer
+text_credits_music_composer: Music Composer
 text_credits_translator: Translator
-text_credits_costume_help: Costume help
+text_credits_costume_help: Additional Costumes & Props
 text_credits_managing_help: Managing help
 text_credits_decoration_help: Decoration et Accessories help
 text_credits_special_thanks: Special thanks to
 text_credits_more_thanks: More thanks to
 text_credits_locations: Locations of shooting
 text_credits_webmaster: Webmaster / Webdesign
-text_credits_webeditor: Web editor, Community manager, Marketing
+text_credits_webeditor: Web editor, Community manager, Marketing, Press
 text_credits_graphic_artist: Graphic artist
-text_credits_designer: Designer
-text_credits_graphic_designer: Graphic designer
+text_credits_designer: Concept Arts
+text_credits_graphic_designer: Graphic Design
 text_credits_camera_operator_ep3: Camera Operator Ep 3
 text_credits_sound_recordist_ep3: Sound Recordist Ep 3
-text_credits_makeup_ep3: Make-up Ep 3
+text_credits_makeup_ep3: Make-up Artist Ep 3
 ----
 
 <!-- tmpl_include name="head.inc"-->

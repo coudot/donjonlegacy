@@ -27,8 +27,7 @@ text_credits_first_assistant_camera: Opérateur de prises de vue
 text_credits_assistant_camera: Assistante caméra
 text_credits_electrician: Électricien
 text_credits_costumier: Costumière
-text_credits_makeup: Maquilleuse
-text_credits_motion_design: Motion design / Compositing
+text_credits_makeup: Maquilleuse SFX
 text_credits_puppeteer: Marionnettiste
 text_credits_colour_grading: Étalonnage
 text_credits_credits: Vidéographiste - générique de début
@@ -39,15 +38,15 @@ text_credits_translator: Traductrice
 text_credits_costume_help: Prêts de costumes
 text_credits_managing_help: Aides à la régie
 text_credits_decoration_help: Aides aux décors et accessoires
-text_credits_special_thanks: Remerciements tout particulier à
+text_credits_special_thanks: Remerciements tout particuliers à
 text_credits_more_thanks: Remerciements supplémentaires
 text_credits_locations: Lieux de tournage
 text_credits_webmaster: Webmaster / Webdesign
-text_credits_webeditor: Rédacteur web, Community Manager, Marketing
+text_credits_webeditor: Rédacteur web, Community Manager, Marketing, Presse
 text_credits_graphic_artist: Graphiste
 text_credits_designer: Dessinateur
-text_credits_graphic_designer: Graphiste
-text_credits_camera_operator_ep3: Opératrice prise de vue Ep 3
+text_credits_graphic_designer: Graphisme
+text_credits_camera_operator_ep3: Opératrice de prises de vue Ep 3
 text_credits_sound_recordist_ep3: Opérateur son Ep 3
 text_credits_makeup_ep3: Maquilleuse Ep 3
 ----

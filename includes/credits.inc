@@ -109,13 +109,16 @@
     <td>Alexandra Moulié</td>
   </tr>
   <tr>
-    <th><!-- tmpl_var name="text_credits_motion_design" --></th>
-    <td>Nicolas Brasseur</td>
-  </tr>
-  <tr>
     <th><!-- tmpl_var name="text_credits_puppeteer" --></th>
     <td>Ionah Mélin</td>
   </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_costume_help" --></th>
+    <td>Thomas Vanicatte</td>
+  </tr>
+</table>
+
+<table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_credits" --></th>
     <td>Nicolas Brasseur</td>
@@ -131,10 +134,6 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_translator" --></th>
     <td>Sophie Guinez</td>
-  </tr>
-  <tr>
-    <th><!-- tmpl_var name="text_credits_costume_help" --></th>
-    <td>Thomas Vanicatte</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_graphic_designer" --></th>
@@ -173,7 +172,7 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_special_thanks" --></th>
     <td>
-      ARTE Studio<br />
+      ARTE Studio (Pascal Sottovia, Jean Buono, Pascale Brahamsha)<br />
       Panalux<br />
       Puzzle Vidéos<br />
       Ville de Chalons-en-Champagne<br />
@@ -187,9 +186,7 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_more_thanks" --></th>
     <td>
-      Pascal Sottovia<br />
-      Jean Buono<br />
-      Pascale Brahamsha<br />
+      Théo Gayet<br />
       Nicolas Guilloz<br />
       Lyndy Davies<br />
       Marc Canova<br />
@@ -209,6 +206,8 @@
       Amanda et Nadine<br />
       Aymeric<br />
       Cyril<br />
+      Bruno Poli<br />
+      Chams Chitou<br />
     </td>
   </tr>
   <tr>
@@ -229,10 +228,6 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_webeditor" --></th>
-    <td>Guilhem</td>
-  </tr>
-  <tr>
-    <th><!-- tmpl_var name="text_credits_graphic_artist" --></th>
     <td>Guilhem</td>
   </tr>
   <tr>
