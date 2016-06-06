@@ -17,7 +17,7 @@ a, a:hover {
 
 div#content, div.panel {
   background: rgb(255, 255, 255);
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.8);
 }
 
 table.credits {
