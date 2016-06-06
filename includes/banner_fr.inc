@@ -7,6 +7,12 @@
 </p>
 
 <div class="panel panel-info">
+  <a href="https://www.amazon.fr/plante-verte-Guilhem/dp/2924550165">
+    <img src="/images/pub1.jpg" class="img-responsive" />
+  </a>
+</div>
+
+<div class="panel panel-info">
   <div class="panel-heading">
     <h3 class="panel-title text-center">Recherche bénévoles</h3>
   </div>
