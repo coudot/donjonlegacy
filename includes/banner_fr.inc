@@ -18,7 +18,6 @@
   </div>
   <div class="panel-body">
     <ul>
-      <li>Graphistes</li>
       <li>Influenceurs</li>
       <li>Partenaires</li>
       <li>Diffuseurs</li>
