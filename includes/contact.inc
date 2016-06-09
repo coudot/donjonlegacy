@@ -10,16 +10,9 @@
 <h2 class="text-center"><!-- tmpl_var name="text_contact_mail" --></h2>
 
 
-<div class="row text-center">
+<div class="text-center">
 
-  <div class="col-sm-6">
-    <img src="/images/fighttoread.gif" alt="<!-- tmpl_var name="text_contact_read" -->" class="img-responsive" />
-    <br />
-    <div class="alert alert-info hvr-grow-shadow"><!-- tmpl_var name="text_contact_read" --></div>
-  </div>
-
-  <div class="col-sm-6">
-    <form>
+    <form action="/mail.php" method="post">
       <select name="subject" class="form-control">
         <option value="<!-- tmpl_var name="text_contact_team" -->"><!-- tmpl_var name="text_contact_team" --></option>
         <option value="<!-- tmpl_var name="text_contact_help" -->"><!-- tmpl_var name="text_contact_help" --></option>
@@ -29,14 +22,12 @@
         <option value="<!-- tmpl_var name="text_contact_evening" -->"><!-- tmpl_var name="text_contact_evening" --></option>
         <option value="<!-- tmpl_var name="text_contact_other" -->"><!-- tmpl_var name="text_contact_other" --></option>
       </select>
-      <textarea class="form-control" rows="5"></textarea>
+      <input type="text" name="mail" placeholder="<!-- tmpl_var name="text_contact_mailinput" -->" class="form-control" />
+      <textarea name="message" class="form-control" rows="5"></textarea>
+      <input type="hidden" name="returnlink" value="<!-- tmpl_var name="returnlink" -->" />
 
-      <input type="submit" class="form-control disabled" disabled="disabled"/>
-
-      <br />
-
-      <div class="nomail alert alert-danger hvr-grow-shadow"><!-- tmpl_var name="text_contact_nomail" --></div>
+      <input type="submit" class="form-control" />
     </form>
-  </div>
+
 </div>
   

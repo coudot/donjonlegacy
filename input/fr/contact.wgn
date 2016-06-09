@@ -1,5 +1,6 @@
 title: Contact
 en-link: /en/contact.html
+returnlink: /fr/mail.html
 text_menu_watch: À voir
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
@@ -18,6 +19,7 @@ text_contact_advertiser: Vous êtes annonceur
 text_contact_evening: Vous voulez nous inviter à un événement
 text_contact_other: Autres
 text_contact_nomail: Envoi de message temporairement non fonctionnel, merci de nous contacter par les réseaux sociaux
+text_contact_mailinput: Votre adresse mail
 ----
 
 <!-- tmpl_include name="head.inc"-->

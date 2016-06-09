@@ -1,5 +1,6 @@
 title: Contact
 fr-link: /fr/contact.html
+returnlink: /en/mail.html
 text_menu_watch: Watch
 text_menu_hall: Hall
 text_menu_dungeon: Dungeon
@@ -18,6 +19,7 @@ text_contact_advertiser: You're an advertiser
 text_contact_evening: You want to invit us to an evening
 text_contact_other: Other
 text_contact_nomail: Message delivery not working for now, please reach us trough social networks
+text_contact_mailinput: Your mail address
 ----
 
 <!-- tmpl_include name="head.inc"-->

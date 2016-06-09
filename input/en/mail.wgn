@@ -1,0 +1,22 @@
+title: Mail sent
+fr-link: /en/mail.html
+text_menu_watch: Watch
+text_menu_hall: Hall
+text_menu_dungeon: Dungeon
+text_menu_credits: Credits
+text_menu_contact: Contact
+text_menu_friends: Friends
+text_mail_read: We are fighting to read you!
+----
+
+<!-- tmpl_include name="head.inc"-->
+
+<!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="mail.inc"-->
+
+<!-- tmpl_include name="menu_foot.inc"-->
+
+<!-- tmpl_include name="banner_en.inc"-->
+
+<!-- tmpl_include name="foot.inc"-->
