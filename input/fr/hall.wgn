@@ -34,7 +34,7 @@ text_hall_alignment: Alignement
 
   <div class="col-sm-6 text-center">
 
-  <div class="magiccard defenders hvr-grow-shadow">
+  <div class="magiccard defenders">
 
   <div class="cardtitle row">
     <div class="col-sm-9"><tmpl_var name="title"></div>

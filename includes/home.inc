@@ -5,18 +5,18 @@
       <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/RMXDqLgdjBg" allowfullscreen></iframe>
     </div>
     <hr />
-    <div class="alert alert-info hvr-grow-shadow">
+    <div class="alert alert-info hvr-trim">
     <h2><tmpl_var name="text_home_pitch_title" /></h2>
     <p><tmpl_var name="text_home_pitch" /></p>
     </div>
     <hr />
     <h2><tmpl_var name="text_home_info" /></h2>
     <p>
-        <a class="btn btn-default hvr-bounce-to-right" href="https://twitter.com/DonJon_Legacy"><i class="fa fa-twitter"></i></a>
-        <a class="btn btn-default hvr-bounce-to-right" href="https://www.facebook.com/donjonlegacy"><i class="fa fa-facebook"></i></a>
-        <a class="btn btn-default hvr-bounce-to-right" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i></a>
-        <a class="btn btn-default hvr-bounce-to-right" href="http://www.dailymotion.com/donjonlegacy"><i class="fa fa-video-camera"></i></a>
-        <a class="btn btn-default hvr-bounce-to-right" href="http://donjonlegacy.tumblr.com/"><i class="fa fa-tumblr"></i></a>
+        <a class="btn btn-default" href="https://twitter.com/DonJon_Legacy"><i class="fa fa-twitter"></i></a>
+        <a class="btn btn-default" href="https://www.facebook.com/donjonlegacy"><i class="fa fa-facebook"></i></a>
+        <a class="btn btn-default" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i></a>
+        <a class="btn btn-default" href="http://www.dailymotion.com/donjonlegacy"><i class="fa fa-video-camera"></i></a>
+        <a class="btn btn-default" href="http://donjonlegacy.tumblr.com/"><i class="fa fa-tumblr"></i></a>
     </p>
   </div>
 

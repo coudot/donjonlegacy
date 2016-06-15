@@ -8,8 +8,8 @@
     <h2><tmpl_var name="title" /></h2>
     <p>
       <tmpl_var name="text_watch_channels" />
-      <a class="btn btn-default hvr-bounce-to-right" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i></a>
-      <a class="btn btn-default hvr-bounce-to-right" href="http://www.dailymotion.com/donjonlegacy"><i class="fa fa-video-camera"></i></a>
+      <a class="btn btn-default" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i></a>
+      <a class="btn btn-default" href="http://www.dailymotion.com/donjonlegacy"><i class="fa fa-video-camera"></i></a>
     </p>
     <hr />
     <h2><tmpl_var name="text_watch_season" /> 1</h2>

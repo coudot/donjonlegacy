@@ -2,7 +2,7 @@
 
 <hr />
 
-<div class="alert alert-info hvr-grow-shadow">
+<div class="alert alert-info hvr-trim">
   <!-- tmpl_var name="text_credits_intro" -->
 </div>
 
