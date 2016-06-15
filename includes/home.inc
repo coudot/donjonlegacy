@@ -5,7 +5,7 @@
       <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/RMXDqLgdjBg" allowfullscreen></iframe>
     </div>
     <hr />
-    <div class="alert alert-info hvr-trim">
+    <div>
     <h2><tmpl_var name="text_home_pitch_title" /></h2>
     <p><tmpl_var name="text_home_pitch" /></p>
     </div>

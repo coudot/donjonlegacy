@@ -6,13 +6,13 @@
     <a class="btn btn-default" href="http://donjonlegacy.tumblr.com/"><i class="fa fa-tumblr"></i></a>
 </p>
 
-<div class="panel panel-info">
+<div class="panel panel-default">
   <a href="https://www.amazon.fr/plante-verte-Guilhem/dp/2924550165">
     <img src="/images/pub1.jpg" class="img-responsive" />
   </a>
 </div>
 
-<div class="panel panel-info">
+<div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title text-center">Volunteers wanted</h3>
   </div>

@@ -2,8 +2,10 @@
 
 <hr />
 
-<div class="alert alert-info hvr-trim">
-  <!-- tmpl_var name="text_friends_intro" -->
+<div class="text-center">
+  <div class="alert alert-warning hvr-trim text-left">
+    <!-- tmpl_var name="text_friends_intro" -->
+  </div>
 </div>
 
 <div class="row text-center">
