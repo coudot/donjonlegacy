@@ -23,7 +23,7 @@
 
   <hr />
 
-  <div class="alert alert-info hvr-grow-shadow">
+  <div class="alert alert-warning hvr-trim">
     <!-- tmpl_var name="text_dungeon_map_description" -->
   </div>
 
