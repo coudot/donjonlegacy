@@ -7,9 +7,18 @@
 </p>
 
 <div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">Guilhem - Rézo</h3>
+  </div>
+  <div class="panel-body text-center">
   <a href="https://www.amazon.fr/plante-verte-Guilhem/dp/2924550165">
-    <img src="/images/pub1.jpg" class="img-responsive" />
+    <img src="/images/pub_plante_verte.png" class="img-responsive" />
   </a>
+  </div>
+  <div class="panel-footer text-center" style="font-size:10pt;">
+    Le premier roman édité (genre humour/SF) de Guilhem, le créateur de DJL<br />
+    <i>Disponible en ebook partout ou broché sur <a href="https://www.amazon.fr/plante-verte-Guilhem/dp/2924550165">Amazon</a></i>
+  </div>
 </div>
 
 <div class="panel panel-default">
