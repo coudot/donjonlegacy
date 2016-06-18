@@ -3,5 +3,5 @@
   <div class="text-center">
     <img src="/images/fighttoread.gif" alt="<!-- tmpl_var name="text_mail_read" -->" class="img-responsive center-block" />
     <br />
-    <div class="alert alert-info hvr-grow-shadow"><!-- tmpl_var name="text_mail_read" --></div>
+    <div class="alert alert-djl"><!-- tmpl_var name="text_mail_read" --></div>
   </div>
