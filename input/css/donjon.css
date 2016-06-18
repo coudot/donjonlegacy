@@ -23,11 +23,14 @@ a, a:hover {
 h1, h2, h3, h4 {
   font-family: "CaligulaDodgy";
   font-variant: small-caps;
+  text-shadow: 0px 0px 20px #32728a;
 }
 
 div#content, div.panel {
   background: rgb(255, 255, 255);
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0px 0px 30px #32728a;
+  border: 0;
 }
 
 table.credits {
@@ -58,8 +61,16 @@ ul.navbar-nav i.fa {
   display: inherit;
 }
 
+.navbar-default {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 30px #32728a;
+  text-shadow: 0px 0px 20px #32728a;
+}
+
 .alert-djl {
   background: linear-gradient(#32728a,#487788);
+  box-shadow: 0px 0px 20px #32728a;
   color: #ddd;
 }
 
@@ -70,6 +81,7 @@ div.magiccard {
   margin: 10px auto;
   padding: 10px 0;
   max-width: 380px;
+  box-shadow: 0px 0px 30px #32728a;
 }
 
 div.defenders {
