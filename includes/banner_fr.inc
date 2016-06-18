@@ -14,16 +14,16 @@
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title text-center">Recherche bénévoles</h3>
+    <h3 class="panel-title text-center">Recherche</h3>
   </div>
   <div class="panel-body">
     <ul>
       <li>Influenceurs</li>
       <li>Partenaires</li>
       <li>Diffuseurs</li>
-      <li>Attachés de presse</li>
-      <li>Fans</li>
     </ul>
-    <p class="text-center"><a href="/fr/contact.html">Contactez-nous</a></p>
+  </div>
+  <div class="panel-footer text-center">
+    <a href="/fr/contact.html">Contactez-nous</a>
   </div>
 </div>
