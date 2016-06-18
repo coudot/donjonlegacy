@@ -11,6 +11,10 @@
     if ($mail) { $fullmessage .= "Mail: $mail\n"; }
     if ($message) { $fullmessage .= "Message: $message\n"; }
 
+    if (!$subject or !$message) {
+        header("Location: " . $returnlink);
+    }
+
     $result = false;
 
     /* Encode the subject */
