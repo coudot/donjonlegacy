@@ -3,7 +3,7 @@
 <hr />
 
 <div class="text-center">
-  <div class="alert alert-warning hvr-trim text-left">
+  <div class="alert alert-djl hvr-trim text-left">
     <!-- tmpl_var name="text_friends_intro" -->
   </div>
 </div>

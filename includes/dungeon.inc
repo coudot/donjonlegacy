@@ -4,7 +4,7 @@
 
   <hr />
 
-  <div class="alert alert-warning hidden-xs hvr-trim">
+  <div class="alert alert-djl hidden-xs hvr-trim">
     <i class="fa fa-hand-pointer-o"></i>
     <!-- tmpl_var name="text_dungeon_map_help" -->
   </div>
@@ -23,7 +23,7 @@
 
   <hr />
 
-  <div class="alert alert-warning hvr-trim">
+  <div class="alert alert-djl hvr-trim">
     <!-- tmpl_var name="text_dungeon_map_description" -->
   </div>
 

@@ -58,6 +58,11 @@ ul.navbar-nav i.fa {
   display: inherit;
 }
 
+.alert-djl {
+  background: linear-gradient(#32728a,#487788);
+  color: #ddd;
+}
+
 /* Magic cards */
 div.magiccard {
   border: 20px #000 solid;
