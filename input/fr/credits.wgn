@@ -31,10 +31,16 @@ text_credits_makeup: Maquilleuse SFX
 text_credits_puppeteer: Marionnettiste
 text_credits_colour_grading: Étalonnage
 text_credits_credits: Vidéographiste - générique de début
-text_credits_special_effects: Effets visuels
+text_credits_special_effects: Effets visuels (2D)
+text_credits_special_effects_3d: Effets visuels (3D)
+text_credits_dragon_modeling: Modèle du dragon
+text_credits_demon_modeling: Modèle du démon
 text_credits_3dfx: Effets spéciaux 3D
 text_credits_music_composer: Compositeur
-text_credits_translator: Traductrice
+text_credits_english_translator: Traduction anglaise
+text_credits_spanish_translator: Traduction espagnole
+text_credits_german_translator: Traduction allemande
+text_credits_italian_translator: Traduction italienne
 text_credits_costume_help: Prêts de costumes
 text_credits_managing_help: Aides à la régie
 text_credits_decoration_help: Aides aux décors et accessoires
@@ -42,6 +48,7 @@ text_credits_special_thanks: Remerciements tout particuliers à
 text_credits_more_thanks: Remerciements supplémentaires
 text_credits_locations: Lieux de tournage
 text_credits_webmaster: Webmaster / Webdesign
+text_credits_webdesign_assistant: Assistant webdesign
 text_credits_webeditor: Rédacteur web, Community Manager, Marketing, Presse
 text_credits_graphic_artist: Graphiste
 text_credits_designer: Dessinateur

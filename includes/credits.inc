@@ -130,12 +130,48 @@
     <td>Yohan Leroy</td>
   </tr>
   <tr>
+    <th><!-- tmpl_var name="text_credits_special_effects_3d" --></th>
+    <td>Samy Tichadou</td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_dragon_modeling" --></th>
+    <td>CC BY - Blender Foundation - <a href="http://www.sintel.org">Sintel</a></td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_demon_modeling" --></th>
+    <td></td>
+  </tr>
+  <tr>
     <th><!-- tmpl_var name="text_credits_music_composer" --></th>
     <td>Antoine Cailliez</td>
   </tr>
   <tr>
-    <th><!-- tmpl_var name="text_credits_translator" --></th>
-    <td>Sophie Guinez</td>
+    <th><!-- tmpl_var name="text_credits_english_translator" --></th>
+    <td>
+      Sophie Guinez<br />
+      Alexandra Carteron<br />
+      Lyndy Davies
+    </td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_spanish_translator" --></th>
+    <td>
+      Geoffroy Scheid<br />
+      Lisette Gironda Scheid
+    </td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_german_translator" --></th>
+    <td>
+      Justine Cailliez<br />
+      Haldor Ortmann
+    </td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_italian_translator" --></th>
+    <td>
+      Michel-Ange Taïbi
+    </td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_graphic_designer" --></th>
@@ -188,7 +224,6 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_more_thanks" --></th>
     <td>
-      Théo Gayet<br />
       Nicolas Guilloz<br />
       Lyndy Davies<br />
       Marc Canova<br />
@@ -227,6 +262,10 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_webmaster" --></th>
     <td>Clément Oudot</td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_webdesign_assistant" --></th>
+    <td>Théo Gayet</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_webeditor" --></th>

@@ -31,10 +31,16 @@ text_credits_makeup: Special Effects Make-up Artist
 text_credits_puppeteer: Puppeteer
 text_credits_colour_grading: Colour grading
 text_credits_credits: Opening Credits Motion Designer
-text_credits_special_effects: Special Effects
+text_credits_special_effects: Special Effects (2D)
+text_credits_special_effects_3d: Special Effects (3D)
+text_credits_dragon_modeling: Dragon modeling
+text_credits_demon_modeling: Demon modeling
 text_credits_3dfx: Special 3D FX
 text_credits_music_composer: Music Composer
-text_credits_translator: Translator
+text_credits_english_translator: English translation
+text_credits_spanish_translator: Spanish translation
+text_credits_german_translator: German translation
+text_credits_italian_translator: Italian translation
 text_credits_costume_help: Additional Costumes & Props
 text_credits_managing_help: Managing help
 text_credits_decoration_help: Decoration et Accessories help
@@ -42,6 +48,7 @@ text_credits_special_thanks: Special thanks to
 text_credits_more_thanks: More thanks to
 text_credits_locations: Locations of shooting
 text_credits_webmaster: Webmaster / Webdesign
+text_credits_webdesign_assistant: Webdesign assistant
 text_credits_webeditor: Web editor, Community manager, Marketing, Press
 text_credits_graphic_artist: Graphic artist
 text_credits_designer: Concept Arts
