@@ -3,11 +3,11 @@
   <h1 class="text-center"><tmpl_var name="title" /></h1>
   <hr />
 
-  <div class="col-sm-6">
+  <div class="col-sm-6 hidden-xs">
     <img src="/images/teignome4.png" alt="teignome" class="img-responsive hvr-buzz" />
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-sm-6 col-xs-12">
     <p>
       <tmpl_var name="text_watch_channels" />
       <a class="btn btn-default" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i></a>
