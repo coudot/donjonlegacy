@@ -18,12 +18,13 @@ body {
 
 a, a:hover {
   text-decoration: none;
+  color: #32728a;
 }
 
 h1, h2, h3, h4 {
   font-family: "CaligulaDodgy";
   font-variant: small-caps;
-  text-shadow: 0px 0px 20px #32728a;
+  text-shadow: 0px 0px 5px #32728a;
 }
 
 div#content, div.panel {
@@ -57,6 +58,17 @@ ul.navbar-nav i.fa {
   margin-right: 8px;
 }
 
+.navbar-default ul.navbar-nav>li>a:hover{
+  background: #32728a;
+  box-shadow: 0px 0px 10px 3px #32728a;
+}
+
+a.btn-default:hover {
+  background: #32728a;
+  color: #ddd;
+  border: 1px transparent solid;
+}
+
 .hvr-buzz {
   display: inherit;
 }
@@ -64,14 +76,15 @@ ul.navbar-nav i.fa {
 .navbar-default {
   background-color: rgb(0,0,0);
   background-color: rgba(0,0,0,0.5);
-  box-shadow: 0px 0px 30px #32728a;
+  box-shadow: 0px 0px 30px 5px #32728a;
   text-shadow: 0px 0px 20px #32728a;
 }
 
 .alert-djl {
-  background: linear-gradient(#32728a,#487788);
-  box-shadow: 0px 0px 20px #32728a;
+  background: #487788;
+  box-shadow: 0px 0px 20px 5px #32728a;
   color: #ddd;
+  border-radius: 5px;
 }
 
 /* Magic cards */
