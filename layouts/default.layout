@@ -13,7 +13,8 @@
     <!-- Facebook -->
     <meta property="og:title" content="DonJon Legacy" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="http://www.donjonlegacy.com/images/avatar_djl.png" />
+    <meta property="og:image" content="http://www.donjonlegacy.com/images/avatar_donjonlegacy_opengraph.jpg" />
+    <meta property="og:image" content="http://www.donjonlegacy.com/images/avatar_djl_opengraph.jpg" />
     <meta property="og:url" content="http://www.donjonlegacy.com" />
     <meta property="og:description" content="DonJon Legacy is a fucking indie comical dungeonary series! It's Bad Fantasy!" />
 
@@ -41,6 +42,15 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/donjon.css" rel="stylesheet">
+
+    <!-- Google AdSense -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-9866004133174063",
+        enable_page_level_ads: true
+      });
+    </script>
   </head>
 
   <body>
