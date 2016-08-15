@@ -4,16 +4,21 @@
     $mail = $_POST["mail"];
     $returnlink = $_POST["returnlink"];
 
+    if (!$returnlink) {
+        $returnlink = "http://www.donjonlegacy.com";
+    }
+
+    if (!$subject or !$message) {
+        header("Location: " . $returnlink);
+        exit;
+    }
+
     $mail_to = "contact@donjonlegacy.com";
     $mail_from = "webmaster@donjonlegacy.com";
 
     $fullmessage = "Sujet: $subject\n";
     if ($mail) { $fullmessage .= "Mail: $mail\n"; }
     if ($message) { $fullmessage .= "Message: $message\n"; }
-
-    if (!$subject or !$message) {
-        header("Location: " . $returnlink);
-    }
 
     $result = false;
 
