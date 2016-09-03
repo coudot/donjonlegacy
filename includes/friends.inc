@@ -17,6 +17,8 @@
     <p><a href="https://twitter.com/rentheseries/status/705717574647025664">Ren</a></p>
     <p><a href="https://twitter.com/onehitdieseries/status/704308676413124609">One Hit Die</a></p>
     <p><a href="https://www.facebook.com/Super-Raccord-147352751959836/">Super Raccord</a></p>
+    <p><a href="https://www.facebook.com/Marcus-182459345935/">Marcus</a></p>
+    <p><a href="https://www.facebook.com/Monsieur-Phal-124324084250556/">Monsieur Phal</a></p>
   </div>
 
   <div class="col-sm-6">
