@@ -56,6 +56,8 @@ text_credits_graphic_designer: Graphic Design
 text_credits_camera_operator_ep3: Camera Operator Ep 3
 text_credits_sound_recordist_ep3: Sound Recordist Ep 3
 text_credits_makeup_ep3: Make-up Artist Ep 3
+text_credits_sound_recordist_voice_over: Sound Recordist voice over
+text_credits_color_grading: Color grading
 ----
 
 <!-- tmpl_include name="head.inc"-->

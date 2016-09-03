@@ -56,6 +56,8 @@ text_credits_graphic_designer: Graphisme
 text_credits_camera_operator_ep3: Opératrice de prises de vue Ep 3
 text_credits_sound_recordist_ep3: Opérateur son Ep 3
 text_credits_makeup_ep3: Maquilleuse Ep 3
+text_credits_sound_recordist_voice_over: Opérateur son voix off
+text_credits_color_grading: Étalonnage
 ----
 
 <!-- tmpl_include name="head.inc"-->

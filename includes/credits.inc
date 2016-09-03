@@ -61,11 +61,11 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_dungeon_heart_voice" --></th>
-    <td></td>
+    <td>Monsieur Phal <a href="https://www.facebook.com/Monsieur-Phal-124324084250556/"><i class="fa fa-facebook-official"></i></a></td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_stone_truth_voice" --></th>
-    <td></td>
+    <td>Marcus <a href="https://www.facebook.com/Marcus-182459345935/"><i class="fa fa-facebook-official"></i></a></td>
   </tr>
 </table>
 
@@ -80,11 +80,15 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_sound_engineer" --></th>
-    <td>Lucas Rollin</td>
+    <td>Lucas Rollin, Axel Renault</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_sound_recordist_ep3" --></th>
     <td>Stephen Le Cocq</td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_sound_recordist_voice_over" --></th>
+    <td>Sergio Escorcio</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_first_assistant_camera" --></th>
@@ -126,8 +130,12 @@
     <td>Nicolas Brasseur</td>
   </tr>
   <tr>
+    <th><!-- tmpl_var name="text_credits_color_grading" --></th>
+    <td>Alexandre Sadowsky</td>
+  </tr>
+  <tr>
     <th><!-- tmpl_var name="text_credits_special_effects" --></th>
-    <td>Yohan Leroy</td>
+    <td></td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_special_effects_3d" --></th>
@@ -135,11 +143,11 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_dragon_modeling" --></th>
-    <td>CC BY - Blender Foundation - <a href="http://www.sintel.org">Sintel</a></td>
+    <td>CC BY - Blender Foundation - <a href="http://www.sintel.org">Sintel</a> - created by Pablo Vazquez</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_demon_modeling" --></th>
-    <td></td>
+    <td>Cecoaliensa c/o Turbosquid</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_music_composer" --></th>
@@ -170,7 +178,9 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_italian_translator" --></th>
     <td>
-      Michel-Ange Taïbi
+      Michel-Ange Taïbi<br />
+      Vanessa Bonaffini<br />
+      Mina Sohet
     </td>
   </tr>
   <tr>
@@ -210,7 +220,7 @@
   <tr>
     <th><!-- tmpl_var name="text_credits_special_thanks" --></th>
     <td>
-      ARTE Studio (Pascal Sottovia, Jean Buono, Pascale Brahamsha)<br />
+      ARTE Studio (Pascal Sottovia, Jean Buono, Pascale Brahamsha, Laurent Lefèbvre, Virginie Lacoste)<br />
       Panalux<br />
       Puzzle Vidéos<br />
       Ville de Chalons-en-Champagne<br />
@@ -219,6 +229,7 @@
       La Compagnie du Crépuscule<br />
       Association Onze Création<br />
       Audrey Andrasi<br />
+      Thomas Gayet<br />
     </td>
   </tr>
   <tr>
