@@ -23,6 +23,19 @@
 
 <div class="panel panel-default">
   <div class="panel-heading">
+    <h3 class="panel-title text-center">Guilhem - Le chevalier à la canne à pêche</h3>
+  </div>
+  <div class="panel-body text-center">
+    <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
+  </div>
+  <div class="panel-footer text-center" style="font-size:10pt;">
+    Le roman édité du créateur de DJL (avec le teignome)<br />
+    <i>Disponible bientôt en ebook partout ou broché sur Amazon</i>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title text-center">Recherche</h3>
   </div>
   <div class="panel-body">
