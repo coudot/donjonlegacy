@@ -8,10 +8,8 @@ text_menu_contact: Contact
 text_menu_friends: Amis
 text_watch_channels: Nos chaînes :
 text_watch_season: Saison
-text_watch_subtitles: Version française / sous-titres anglais
-text_watch_201602: février 2016
-text_watch_201607: été 2016
-text_watch_201701: janvier 2017
+text_watch_subtitles: Version française / sous-titres anglais, italien, allemand, espagnol
+text_watch_trailer: Bande annonce
 ----
 
 <!-- tmpl_include name="head.inc"-->

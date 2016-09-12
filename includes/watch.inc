@@ -16,23 +16,26 @@
     <h2><tmpl_var name="text_watch_season" /> 1</h2>
     <p><i><tmpl_var name="text_watch_subtitles" /></i></p>
     <ul>
-      <li><a href="https://www.youtube.com/watch?v=RMXDqLgdjBg">Teaser (<tmpl_var name="text_watch_201602" />)</a></li>
+      <li><a href="https://www.youtube.com/watch?v=RMXDqLgdjBg">Teaser</a></li>
     </ul>
     <ul>
-      <li>Episode 1 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 2 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 3 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 4 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 5 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 6 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 7 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 8 (<tmpl_var name="text_watch_201607" />)</li>
-      <li>Episode 9 (<tmpl_var name="text_watch_201607" />)</li>
+      <li><tmpl_var name="text_watch_trailer" /></li>
+    </ul>
+    <ul>
+      <li>Episode 1</li>
+      <li>Episode 2</li>
+      <li>Episode 3</li>
+      <li>Episode 4</li>
+      <li>Episode 5</li>
+      <li>Episode 6</li>
+      <li>Episode 7</li>
+      <li>Episode 8</li>
+      <li>Episode 9</li>
     </ul>
     <h2><tmpl_var name="text_watch_season" /> 2</h2>
     <p><i><tmpl_var name="text_watch_subtitles" /></i></p>
     <ul>
-      <li>Episode 1 (<tmpl_var name="text_watch_201701" />)</li>
+      <li>Episode 1</li>
     </ul>
   </div>
 

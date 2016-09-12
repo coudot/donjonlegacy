@@ -8,10 +8,8 @@ text_menu_contact: Contact
 text_menu_friends: Friends
 text_watch_channels: Our channels:
 text_watch_season: Season
-text_watch_subtitles: French audio / english subtitles
-text_watch_201602: february 2016
-text_watch_201607: summer 2016
-text_watch_201701: january 2017
+text_watch_subtitles: French audio / english, italian, german, spanish subtitles
+text_watch_trailer: Trailer
 ----
 
 <!-- tmpl_include name="head.inc"-->
