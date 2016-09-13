@@ -19,7 +19,7 @@
       <li><a href="https://www.youtube.com/watch?v=RMXDqLgdjBg">Teaser</a></li>
     </ul>
     <ul>
-      <li><tmpl_var name="text_watch_trailer" /></li>
+      <li><a href="https://www.youtube.com/watch?v=1GtwdA92f6U"><tmpl_var name="text_watch_trailer" /></a></li>
     </ul>
     <ul>
       <li>Episode 1</li>
