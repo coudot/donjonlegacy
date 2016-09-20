@@ -22,7 +22,7 @@
       <li><a href="https://www.youtube.com/watch?v=1GtwdA92f6U"><tmpl_var name="text_watch_trailer" /></a></li>
     </ul>
     <ul>
-      <li>Episode 1</li>
+      <li><a href="https://www.youtube.com/watch?v=Miaq_E5gmlk">Episode 1</a></li>
       <li>Episode 2</li>
       <li>Episode 3</li>
       <li>Episode 4</li>
