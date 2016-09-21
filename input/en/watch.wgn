@@ -6,11 +6,12 @@ text_menu_dungeon: Dungeon
 text_menu_credits: Credits
 text_menu_contact: Contact
 text_menu_friends: Friends
-text_watch_channels: Our channels:
+text_watch_channels: Get all episodes on our channels
 text_watch_season: Season
 text_watch_subtitles: French audio / english, italian, german, spanish subtitles
 text_watch_trailer: Trailer
 text_watch_s01e01: Episode 1 - False start
+text_watch_season2: Work in progress
 ----
 
 <!-- tmpl_include name="head.inc"-->
