@@ -10,6 +10,7 @@ text_watch_channels: Nos chaînes :
 text_watch_season: Saison
 text_watch_subtitles: Version française / sous-titres anglais, italien, allemand, espagnol
 text_watch_trailer: Bande annonce
+text_watch_s01e01: Épisode 1 - Faux départ
 ----
 
 <!-- tmpl_include name="head.inc"-->

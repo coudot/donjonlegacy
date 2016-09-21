@@ -10,6 +10,7 @@ text_watch_channels: Our channels:
 text_watch_season: Season
 text_watch_subtitles: French audio / english, italian, german, spanish subtitles
 text_watch_trailer: Trailer
+text_watch_s01e01: Episode 1 - False start
 ----
 
 <!-- tmpl_include name="head.inc"-->
