@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_producer" --></th>
-    <td>Association Onze Création</td>
+    <td>Association Onze Création / Olivier Ziel</td>
   </tr>
 </table>
 
