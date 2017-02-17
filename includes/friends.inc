@@ -66,4 +66,12 @@
     <p><a href="http://www.reddit.com/r/Fantasy/comments/489kqx/teaser_of_donjon_legacy_project_a_funny_bad/">Reddit /fantasy</a></p>
   </div>
 
+
+  <div class="col-sm-6">
+    <h2><!-- tmpl_var name="text_friends_title_festivals" --></h2>
+    <p><a href="https://nice-fictions.fr/">Nice Fictions</a></p>
+    <p><a href="http://www.trolls-et-legendes.be">Trolls & Légendes</a></p>
+    <p><a href="https://www.salon-fantastique.com/">Salon Fantastique</a></p>
+  </div>
+
 </div>
