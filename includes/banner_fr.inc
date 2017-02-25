@@ -8,6 +8,19 @@
 
 <div class="panel panel-default">
   <div class="panel-heading">
+    <h3 class="panel-title text-center">Guilhem - Le chevalier à la canne à pêche</h3>
+  </div>
+  <div class="panel-body text-center">
+    <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
+  </div>
+  <div class="panel-footer text-center" style="font-size:10pt;">
+    Le roman édité du créateur de DJL (avec le teignome)<br />
+    <i>Disponible bientôt en ebook partout ou broché sur Amazon</i>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title text-center">Guilhem - Rézo</h3>
   </div>
   <div class="panel-body text-center">
@@ -18,19 +31,6 @@
   <div class="panel-footer text-center" style="font-size:10pt;">
     Le premier roman édité (genre humour/SF) de Guilhem, le créateur de DJL<br />
     <i>Disponible en ebook partout ou broché sur <a href="https://www.amazon.fr/plante-verte-Guilhem/dp/2924550165">Amazon</a></i>
-  </div>
-</div>
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title text-center">Guilhem - Le chevalier à la canne à pêche</h3>
-  </div>
-  <div class="panel-body text-center">
-    <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
-  </div>
-  <div class="panel-footer text-center" style="font-size:10pt;">
-    Le roman édité du créateur de DJL (avec le teignome)<br />
-    <i>Disponible bientôt en ebook partout ou broché sur Amazon</i>
   </div>
 </div>
 

@@ -8,6 +8,19 @@
 
 <div class="panel panel-default">
   <div class="panel-heading">
+    <h3 class="panel-title text-center">Guilhem - Le chevalier à la canne à pêche</h3>
+  </div>
+  <div class="panel-body text-center">
+    <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
+  </div>
+  <div class="panel-footer text-center" style="font-size:10pt;">
+    Novel in French from creator of DJL (with Grumpy Gnome)<br />
+    <i>Soon in ebook everywhere or in paper on Amazon</i>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title text-center">Guilhem - Rézo</h3>
   </div>
   <div class="panel-body text-center">
@@ -18,19 +31,6 @@
   <div class="panel-footer text-center" style="font-size:10pt;">
     First novel in French (humour/SF) from Guilhem, creator of DJL<br />
     <i>Available in ebook everywhere or in paper on <a href="https://www.amazon.fr/plante-verte-Guilhem/dp/2924550165">Amazon</a></i>
-  </div>
-</div>
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title text-center">Guilhem - Le chevalier à la canne à pêche</h3>
-  </div>
-  <div class="panel-body text-center">
-    <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
-  </div>
-  <div class="panel-footer text-center" style="font-size:10pt;">
-    Novel in French from creator of DJL (with Grumpy Gnome)<br />
-    <i>Soon in ebook everywhere or in paper on Amazon</i>
   </div>
 </div>
 
