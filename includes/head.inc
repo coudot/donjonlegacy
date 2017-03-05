@@ -4,7 +4,7 @@
       <a href="index.html"><img src="/images/logo_djl.png" class="img-responsive" style="max-height: 140px; margin: 30px 0;" alt="DonJon Legacy"/></a>
     </div>
     <div class="col-sm-4" style="padding-top:30px">
-      <a href="index.html"><img src="/images/logo_teignome_magie.png" class="img-responsive center-block main-logo hidden-xs" style="max-height: 200px;" alt="DonJon Legacy"/></a>
+      <a href="index.html"><img src="/images/logofullmagicbis.png" class="img-responsive center-block main-logo hidden-xs" style="max-height: 200px;" alt="DonJon Legacy"/></a>
     </div>
     <div class="col-sm-4 text-center" style="color:white; padding-bottom:20px">
       <!-- tmpl_if name="fr-link" -->
