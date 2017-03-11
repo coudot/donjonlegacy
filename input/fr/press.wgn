@@ -1,5 +1,5 @@
-title: Message envoyé
-fr-link: /en/mail.html
+title: Presse
+en-link: /en/press.html
 text_menu_watch: À voir
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
@@ -7,14 +7,17 @@ text_menu_credits: Crédits
 text_menu_contact: Contact
 text_menu_friends: Amis
 text_menu_press: Presse
-text_mail_read: Nous nous battrons pour vous lire !
+text_press_intro: Vous aimez DonJon Legacy et vous voulez communiquer dessus ? Télchargez ici ce dont vous avez besoin.
+text_press_release: Communiqué de presse
+text_press_pack: Dossier de presse
+text_press_kit: Kit de visuels
 ----
 
 <!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 
-<!-- tmpl_include name="mail.inc"-->
+<!-- tmpl_include name="press.inc"-->
 
 <!-- tmpl_include name="menu_foot.inc"-->
 

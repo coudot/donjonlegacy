@@ -1,5 +1,5 @@
-title: Mail sent
-fr-link: /en/mail.html
+title: Press
+fr-link: /fr/press.html
 text_menu_watch: Watch
 text_menu_hall: Hall
 text_menu_dungeon: Dungeon
@@ -7,14 +7,17 @@ text_menu_credits: Credits
 text_menu_contact: Contact
 text_menu_friends: Friends
 text_menu_press: Press
-text_mail_read: We are fighting to read you!
+text_press_intro: You like DonJon Legay and you want to communicate on it? Download here what you need.
+text_press_release: Press release
+text_press_pack: Press pack
+text_press_kit: Press kit
 ----
 
 <!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 
-<!-- tmpl_include name="mail.inc"-->
+<!-- tmpl_include name="press.inc"-->
 
 <!-- tmpl_include name="menu_foot.inc"-->
 
