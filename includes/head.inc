@@ -10,7 +10,6 @@
       <!-- tmpl_if name="fr-link" -->
       <h2>Next events</h2>
       <div class="row">
-      <p class="col-sm-6">25 March<br /><a href="http://www.joutesdutemeraire.fr/">Joutes du Téméraire</a> (Nancy)</p>
       <p class="col-sm-6">14-15-16 April<br /><a href="http://www.trolls-et-legendes.be/">Trolls et Légendes</a> (Mons)</p>
       <p class="col-sm-6">22-23 April<br /><a href="http://geektouch-festival.com/2017/">Geek Touch</a> (Lyon)</p>
       <p class="col-sm-6">29-30 April<br /><a href="https://nice-fictions.fr/">Nice Fictions</a> (Nice)</p>
@@ -21,7 +20,6 @@
       <!-- tmpl_if name="en-link" -->
       <h2>Prochains festivals</h2>
       <div class="row">
-      <p class="col-sm-6">25 Mars<br /><a href="http://www.joutesdutemeraire.fr/">Joutes du Téméraire</a> (Nancy)</p>
       <p class="col-sm-6">14-15-16 Avril<br /><a href="http://www.trolls-et-legendes.be/">Trolls et Légendes</a> (Mons)</p>
       <p class="col-sm-6">22-23 Avril<br /><a href="http://geektouch-festival.com/2017/">Geek Touch</a> (Lyon)</p>
       <p class="col-sm-6">29-30 Avril<br /><a href="https://nice-fictions.fr/">Nice Fictions</a> (Nice)</p>
