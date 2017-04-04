@@ -28,6 +28,7 @@
       <li><a href="https://www.youtube.com/watch?v=Miaq_E5gmlk"><tmpl_var name="text_watch_s01e01" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=wDuI-ayW3Cw"><tmpl_var name="text_watch_s01e02" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=n-9XF0bcgFw"><tmpl_var name="text_watch_s01e03" /></a></li>
+      <li><a href="https://www.youtube.com/watch?v=lvJym9dpBTg"><tmpl_var name="text_watch_s01e04" /></a></li>
       <li>Episode 3</li>
       <li>Episode 4</li>
       <li>Episode 5</li>
