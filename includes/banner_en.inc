@@ -11,11 +11,13 @@
     <h3 class="panel-title text-center">Guilhem - Le chevalier à la canne à pêche</h3>
   </div>
   <div class="panel-body text-center">
+  <a href="http://www.publier-un-livre.com/fr/le-livre-en-papier/387-le-chevalier-a-la-canne-a-peche-l-antevers-1">
     <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
+  </a>
   </div>
   <div class="panel-footer text-center" style="font-size:10pt;">
     Novel in French from creator of DJL (with Grumpy Gnome)<br />
-    <i>Soon in ebook everywhere or in paper on Amazon</i>
+    <i>Available in ebook everywhere or in paper on <a href="http://www.publier-un-livre.com/fr/le-livre-en-papier/387-le-chevalier-a-la-canne-a-peche-l-antevers-1">le livre en papier</a></i>
   </div>
 </div>
 

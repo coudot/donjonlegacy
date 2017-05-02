@@ -11,11 +11,13 @@
     <h3 class="panel-title text-center">Guilhem - Le chevalier à la canne à pêche</h3>
   </div>
   <div class="panel-body text-center">
+  <a href="http://www.publier-un-livre.com/fr/le-livre-en-papier/387-le-chevalier-a-la-canne-a-peche-l-antevers-1">
     <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
+  </a>
   </div>
   <div class="panel-footer text-center" style="font-size:10pt;">
     Le roman édité du créateur de DJL (avec le teignome)<br />
-    <i>Disponible bientôt en ebook partout ou broché sur Amazon</i>
+    <i>Disponible en ebook partout ou broché sur <a href="http://www.publier-un-livre.com/fr/le-livre-en-papier/387-le-chevalier-a-la-canne-a-peche-l-antevers-1">le livre en papier</a></i>
   </div>
 </div>
 
