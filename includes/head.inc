@@ -10,19 +10,19 @@
       <!-- tmpl_if name="fr-link" -->
       <h2>Next events</h2>
       <div class="row">
-      <p class="col-sm-6">22-23 April<br /><a href="http://geektouch-festival.com/2017/">Geek Touch</a> (Lyon)</p>
-      <p class="col-sm-6">29-30 April<br /><a href="https://nice-fictions.fr/">Nice Fictions</a> (Nice)</p>
       <p class="col-sm-6">6-7-8 May<br /><a href="https://www.salon-fantastique.com/">Le Salon Fantastique</a> (Paris)</p>
       <p class="col-sm-6">13 May<br /><a href="http://www.reims.fr/445/les-fetes-johanniques.htm">Fêtes Johanniques</a> (Reims)</p>
+      <p class="col-sm-6">20-21 May<br /><a href="http://geek-days.com/">Geek days</a> (Lille)</p>
+      <p class="col-sm-6">25-26-27-28 May<br /><a href="http://geek-festival.fr/">Bordeaux Geek Festival</a> (Bordeaux)</p>
       </div>
       <!-- /tmpl_if -->
       <!-- tmpl_if name="en-link" -->
       <h2>Prochains festivals</h2>
       <div class="row">
-      <p class="col-sm-6">22-23 Avril<br /><a href="http://geektouch-festival.com/2017/">Geek Touch</a> (Lyon)</p>
-      <p class="col-sm-6">29-30 Avril<br /><a href="https://nice-fictions.fr/">Nice Fictions</a> (Nice)</p>
       <p class="col-sm-6">6-7-8 Mai<br /><a href="https://www.salon-fantastique.com/">Le Salon Fantastique</a> (Paris)</p>
       <p class="col-sm-6">13 Mai<br /><a href="http://www.reims.fr/445/les-fetes-johanniques.htm">Fêtes Johanniques</a> (Reims)</p>
+      <p class="col-sm-6">20-21 Mai<br /><a href="http://geek-days.com/">Geek days</a> (Lille)</p>
+      <p class="col-sm-6">25-26-27-28 Mai<br /><a href="http://geek-festival.fr/">Bordeaux Geek Festival</a> (Bordeaux)</p>
       </div>
       <!-- /tmpl_if -->
     </div>
