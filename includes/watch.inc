@@ -31,7 +31,7 @@
       <li><a href="https://www.youtube.com/watch?v=lvJym9dpBTg"><tmpl_var name="text_watch_s01e04" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=IWlq_RzzDhQ"><tmpl_var name="text_watch_s01e05" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=Mf2x2zzj-vg"><tmpl_var name="text_watch_s01e06" /></a></li>
-      <li>Episode 7</li>
+      <li><a href="https://www.youtube.com/watch?v=LyI6Pe6r0JI"><tmpl_var name="text_watch_s01e07" /></a></li>
       <li>Episode 8</li>
       <li>Episode 9</li>
     </ul>
