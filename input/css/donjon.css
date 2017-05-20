@@ -74,11 +74,6 @@ ul.navbar-nav i.fa {
   margin-right: 8px;
 }
 
-.navbar-default ul.navbar-nav>li>a:hover{
-  background: #32728a;
-  box-shadow: 0px 0px 10px 3px #32728a;
-}
-
 a.btn-default:hover {
   background: #32728a;
   color: #ddd;
@@ -97,11 +92,13 @@ a.btn-default:hover {
 }
 
 .alert-djl {
-  background: #487788;
-  box-shadow: 0px 0px 20px 5px #32728a;
+  background-color: rgb(50,114, 138);
+  background-color: rgba(50,114, 138, 0.6);
+  box-shadow: 0px 0px 20px #32728a;
   color: #ddd;
   border-radius: 5px;
 }
+
 
 /* Magic cards */
 div.magiccard {
@@ -172,3 +169,45 @@ div.magiccard table th {
   padding: 10px;
 }
 
+/* Animations */
+
+h1 {
+  animation: djl-text 1s;
+}
+
+.alert-djl {
+  animation: djl-shadow 2s;
+}
+
+.navbar-default ul.navbar-nav>li>a:hover{
+  animation: djl-menu 1s infinite alternate;
+}
+
+@keyframes djl-text {
+  0% {
+    text-shadow: 0px 0px 10px #000;
+    margin-left: 100px;
+    color: #32728a;
+  }
+  100% {
+    text-shadow: 0px 0px 5px #32728a;
+  }
+}
+
+@keyframes djl-shadow {
+  0% {
+    box-shadow: 0px 0px 0px #32728a;
+  }
+  100% {
+    box-shadow: 0px 0px 20px #32728a;
+  }
+}
+
+@keyframes djl-menu {
+  0% {
+  }
+  100% {
+    background: #32728a;
+    box-shadow: 0px 0px 10px 3px #32728a;
+  }
+}
