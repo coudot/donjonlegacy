@@ -33,7 +33,7 @@
       <li><a href="https://www.youtube.com/watch?v=Mf2x2zzj-vg"><tmpl_var name="text_watch_s01e06" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=LyI6Pe6r0JI"><tmpl_var name="text_watch_s01e07" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=1wJKAFemCVo"><tmpl_var name="text_watch_s01e08" /></a></li>
-      <li>Episode 9</li>
+      <li><a href="https://www.youtube.com/watch?v=Ez6b0CSeBa0"><tmpl_var name="text_watch_s01e09" /></a></li>
     </ul>
     <h2><tmpl_var name="text_watch_season" /> 2</h2>
     <p><i><tmpl_var name="text_watch_subtitles" /></i></p>
