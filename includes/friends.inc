@@ -73,6 +73,14 @@
     <p><a href="https://nice-fictions.fr/">Nice Fictions</a></p>
     <p><a href="http://www.trolls-et-legendes.be">Trolls & Légendes</a></p>
     <p><a href="https://www.salon-fantastique.com/">Salon Fantastique</a></p>
+    <p><a href="http://geektouch-festival.com">Geek Touch Festival</a></p>
+    <p><a href="http://geek-festival.fr/">Bordeaux Geek Festival</a></p>
+    <p><a href="http://www.japan-expo-paris.com/">Japan Expo</a></p>
+    <p><a href="http://www.ledormantastique.fr/">Dormantastique</a></p>
+    <p><a href="http://www.bajawebfest.com/">Baja Web Fest</a></p>
+    <p><a href="http://www.sicilywebfest.com/">Sicily Webfest</a></p>
+    <p><a href="https://www.gameinreims.com/">Game in Reims</a></p>
+    <p><a href="https://comicconbrussels.com/">Comic Con Brussels</a></p>
   </div>
 
 </div>
