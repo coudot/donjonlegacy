@@ -31,7 +31,8 @@
     <p><a href="http://allgeekuniverse.com/2016/03/09/donjon-legacy-la-web-serie-made-in-france/">All Geek Universe</a></p>
     <p><a href="http://www.bibou.org/donjon/">Les Murmures du Donjon</a></p>
     <p><a href="https://www.facebook.com/Fiers-dêtre-GEEK-194379330585368/">Fiers d'être geek</a></p>
-    <p><a href="Dol Celeb">Dol Celeb</a></p>
+    <p><a href="https://www.dol-celeb.com/">Dol Celeb</a></p>
+    <p><a href="http://www.g33kmania.com/">GeekMania</a></p>
   </div>
 
   <div class="col-sm-6">
