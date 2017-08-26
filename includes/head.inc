@@ -3,32 +3,21 @@
     <div class="hidden" style="padding-top:30px">
       <a href="index.html"><img src="/images/logo_djl.png" class="img-responsive" style="max-height: 140px; margin: 30px 0;" alt="DonJon Legacy"/></a>
     </div>
-    <div class="col-sm-6" style="padding-top:30px">
+    <div class="col-sm-6">
       <a href="index.html"><img src="/images/logofullmagicbis.png" class="img-responsive main-logo hidden-xs" alt="DonJon Legacy"/></a>
     </div>
-    <div class="col-sm-6 text-center" style="color:white; padding-bottom:20px">
+    <div class="col-sm-6 text-center" style="color:white">
       <!-- tmpl_if name="fr-link" -->
-      <h2>Next events</h2>
-      <div class="row">
-      <p class="col-sm-6">6-9 July<br /><a href="http://www.japan-expo-paris.com/">Japan Expo</a> (Paris)</p>
-      <p class="col-sm-6">22 July<br /><a href="http://www.bajawebfest.com/">Baja Web Fest</a> (Mexico)</p>
-      <p class="col-sm-6">22-23 July<br /><a href="http://www.ledormantastique.fr/">Dormantastique</a> (Dormans)</p>
-      <p class="col-sm-6">21-23 July<br /><a href="http://www.sicilywebfest.com/">Sicily Webfest</a> (Sicily)</p>
-      <p class="col-sm-6">25-26 November<br /><a href="https://www.gameinreims.com/">Game in Reims</a> (Reims)</p>
-      <p class="col-sm-6">2018<br /><a href="https://comicconbrussels.com/">Comic Con Brussels</a> (Belgium)</p>
-      </div>
+      <h2>Selections</h2>
       <!-- /tmpl_if -->
       <!-- tmpl_if name="en-link" -->
-      <h2>Prochains festivals</h2>
-      <div class="row">
-      <p class="col-sm-6">6-9 Juillet<br /><a href="http://www.japan-expo-paris.com/">Japan Expo</a> (Paris)</p>
-      <p class="col-sm-6">22 Juillet<br /><a href="http://www.bajawebfest.com/">Baja Web Fest</a> (Mexique)</p>
-      <p class="col-sm-6">22-23 Juillet<br /><a href="http://www.ledormantastique.fr/">Dormantastique</a> (Dormans)</p>
-      <p class="col-sm-6">21-23 Juillet<br /><a href="http://www.sicilywebfest.com/">Sicily Webfest</a> (Sicile)</p>
-      <p class="col-sm-6">25-26 Novembre<br /><a href="https://www.gameinreims.com/">Game in Reims</a> (Reims)</p>
-      <p class="col-sm-6">2018<br /><a href="https://comicconbrussels.com/">Comic Con Bruxelles</a> (Belgique)</p>
-      </div>
+      <h2>Sélections</h2>
       <!-- /tmpl_if -->
+      <div class="row">
+        <div class="col-sm-3"><a href="http://www.bajawebfest.com/"><img src="/images/logo_bajaweb_2017.png" alt="Baja Webfest 2017" class="img-responsive" /></a></div>
+        <div class="col-sm-3"><a href="http://www.filmquestfest.com"><img src="/images/logo_filmquest_2017.png" alt="Film Quest 2017" class="img-responsive" /></a></div>
+        <div class="col-sm-3"><a href="https://www.mnwebfest.com"><img src="/images/logo_minnesota_webfest_2017.png" alt="Minnesota Webfest 2017" class="img-responsive" /></a></div>
+        <div class="col-sm-3"><a href="http://sicilywebfest.com/"><img src="/images/logo_swf_2017.png" alt="SWF 2017" class="img-responsive" /></a></div>
+      </div>
     </div>
   </div>
-
