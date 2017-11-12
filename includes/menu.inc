@@ -20,6 +20,7 @@
                 <li><a href="contact.html"><i class="fa fa-envelope"></i><!-- tmpl_var name="text_menu_contact" --></a></li>
                 <li><a href="press.html"><i class="fa fa-newspaper-o"></i><!-- tmpl_var name="text_menu_press" --></a></li>
                 <li><a href="friends.html"><i class="fa fa-heart"></i><!-- tmpl_var name="text_menu_friends" --></a></li>
+                <li><a href="awards.html"><i class="fa fa-trophy"></i><!-- tmpl_var name="text_menu_awards" --></a></li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
                 <!-- tmpl_if name="fr-link" -->

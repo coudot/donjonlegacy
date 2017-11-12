@@ -7,6 +7,7 @@ text_menu_credits: Credits
 text_menu_contact: Contact
 text_menu_friends: Friends
 text_menu_press: Press
+text_menu_awards: Awards
 defenders: file_glob(hall/defenders*.wgn)
 text_hall_defenders: The Defenders
 text_hall_firstname: First name
