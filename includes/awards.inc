@@ -19,5 +19,7 @@
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_nomination_laurelproduction.png" class="img-responsive" alt="Asia Web Awards 2017 - Best Production Design" title="Asia Web Awards 2017 - Best Production Design"/></a></div>
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_nomination_laurelsf.png" class="img-responsive" alt="Asia Web Awards 2017 - Best Science Fiction" title="Asia Web Awards 2017 - Best Science Fiction"/></a></div>
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_nomination_laurelsfx.png" class="img-responsive" alt="Asia Web Awards 2017 - Best Special Visual Effect" title="Asia Web Awards 2017 - Best Special Visual Effect"/></a></div>
+  <div class="col-md-4"><a href="http://www.webfest.berlin/"><img src="/images/BSFF_official_selection_2017.jpg" class="img-responsive" alt="Berlin Sci-fi FilmFest 2017 - Official selection" title="Berlin Sci-fi FilmFest 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="https://www.bnmwebfest.com/"><img src="/images/BNM_official_selection_2017.jpg" class="img-responsive" alt="BNM WebFest 2017 - Official selection" title="BNM WebFest 2017 - Official selection"/></a></div>
 
 </div>
