@@ -25,6 +25,9 @@
       <li><a href="https://www.youtube.com/watch?v=1GtwdA92f6U"><tmpl_var name="text_watch_trailer" /></a></li>
     </ul>
     <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLMKApLOreTVQzZmzbVQonTA1pVdhyEH_W"><tmpl_var name="text_watch_season1_playlist" /></a></li>
+    </ul>
+    <ul>
       <li><a href="https://www.youtube.com/watch?v=Miaq_E5gmlk"><tmpl_var name="text_watch_s01e01" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=wDuI-ayW3Cw"><tmpl_var name="text_watch_s01e02" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=n-9XF0bcgFw"><tmpl_var name="text_watch_s01e03" /></a></li>

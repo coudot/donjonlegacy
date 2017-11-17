@@ -20,8 +20,9 @@ text_watch_s01e05: Episode 5 - The beastmaster
 text_watch_s01e06: Episode 6 - The demonist
 text_watch_s01e07: Episode 7 - The stagehand
 text_watch_s01e08: Episode 8 - The nastygnome
-text_watch_s01e08: Episode 9 - The plunderer
+text_watch_s01e09: Episode 9 - The plunderer
 text_watch_season2: Work in progress
+text_watch_season1_playlist: Season playlist
 ----
 
 <!-- tmpl_include name="head.inc"-->
