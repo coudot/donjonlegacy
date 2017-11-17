@@ -31,5 +31,6 @@
   <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017_BEST_SCI-FI_FANTASY.png" class="img-responsive" alt="Minnesota WebFest 2017 - Best Sci-Fi Fantasy" title="Minnesota WebFest 2017 - Best Cinematography"/></a></div>
   <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_2017.jpg" class="img-responsive" alt="International Online Web Fest 2017 - Best European" title="International Online Web Fest 2017 - Best European"/></a></div>
   <div class="col-md-4"><a href="http://www.bajawebfest.com/"><img src="/images/BajaWebFest_2017_OFFICIAL_SELECTION.png" class="img-responsive" alt="Baja Web Fest 2017 - Official selection" title="Baja Web Fest 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="http://fantasticplanetfilmfestival.com/"><img src="/images/Fantastic_Planet_2017.png" class="img-responsive" alt="Fantastic Planet Film Festival 2017 - Official selection" title="Fantastic Planet Film Festival 2017 - Official selection"/></a></div>
 
 </div>
