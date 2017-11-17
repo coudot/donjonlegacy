@@ -32,5 +32,9 @@
   <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_2017.jpg" class="img-responsive" alt="International Online Web Fest 2017 - Best European" title="International Online Web Fest 2017 - Best European"/></a></div>
   <div class="col-md-4"><a href="http://www.bajawebfest.com/"><img src="/images/BajaWebFest_2017_OFFICIAL_SELECTION.png" class="img-responsive" alt="Baja Web Fest 2017 - Official selection" title="Baja Web Fest 2017 - Official selection"/></a></div>
   <div class="col-md-4"><a href="http://fantasticplanetfilmfestival.com/"><img src="/images/Fantastic_Planet_2017.png" class="img-responsive" alt="Fantastic Planet Film Festival 2017 - Official selection" title="Fantastic Planet Film Festival 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="https://www.romawebfest.it/"><img src="/images/RWF_2017.png" class="img-responsive" alt="Roma Web Fest 2017 - Official selection" title="Roma Web Fest 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="http://soflowebfest.com/"><img src="/images/OFFICIALSELECTION-SOFLOWEBFEST-MIAMIFL2017.png" class="img-responsive" alt="SOFLOWEBFEST 2017 - Official selection" title="SOFLOWEBFEST 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="http://www.filmquestfest.com/"><img src="/images/logo_filmquest_2017.png" class="img-responsive" alt="FilmQuest 2017 - Official selection" title="FilmQuest 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="http://sicilywebfest.com/"><img src="/images/logo_swf_2017.png" class="img-responsive" alt="Sicily Web Fest 2017 - Official selection" title="Sicily Web Fest 2017 - Official selection"/></a></div>
 
 </div>
