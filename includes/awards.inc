@@ -17,6 +17,7 @@
   <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017_BEST_CINEMATOGRAPHY.png" class="img-responsive" alt="Minnesota WebFest 2017 - Best Cinematography" title="Minnesota WebFest 2017 - Best Cinematography"/></a></div>
   <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017_BEST_SCI-FI_FANTASY.png" class="img-responsive" alt="Minnesota WebFest 2017 - Best Sci-Fi Fantasy" title="Minnesota WebFest 2017 - Best Sci-Fi Fantasy"/></a></div>
   <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_2017.png" class="img-responsive" alt="International Online Web Fest 2017 - Best European" title="International Online Web Fest 2017 - Best European"/></a></div>
+  <div class="col-md-4"><a href="http://fantasticplanetfilmfestival.com/"><img src="/images/Fantastic_Planet_2017_scifi.png" class="img-responsive" alt="Fantastic Planet Film Festival 2017 - Horror, Sci-Fi, Fantasy Film Festival" title="Fantastic Planet Film Festival 2017 - Horror, Sci-Fi, Fantasy Film Festival"/></a></div>
 
 </div>
 
@@ -33,6 +34,8 @@
   <div class="col-md-4"><a href="http://soflowebfest.com/"><img src="/images/OFFICIALSELECTION-SOFLOWEBFEST-MIAMIFL2017.png" class="img-responsive" alt="SOFLOWEBFEST 2017 - Official selection" title="SOFLOWEBFEST 2017 - Official selection"/></a></div>
   <div class="col-md-4"><a href="http://www.filmquestfest.com/"><img src="/images/logo_filmquest_2017.png" class="img-responsive" alt="FilmQuest 2017 - Official selection" title="FilmQuest 2017 - Official selection"/></a></div>
   <div class="col-md-4"><a href="http://sicilywebfest.com/"><img src="/images/logo_swf_2017.png" class="img-responsive" alt="Sicily Web Fest 2017 - Official selection" title="Sicily Web Fest 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_OFFICIAL_SELECTION_2017.png" class="img-responsive" alt="International Online Web Fest 2017 - Official selection" title="International Online Web Fest 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017.png" class="img-responsive" alt="Minnesota WebFest 2017 - Official selection" title="Minnesota WebFest 2017 - Official selection"/></a></div>
 
 </div>
 
