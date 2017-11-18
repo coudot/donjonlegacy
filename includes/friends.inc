@@ -19,6 +19,21 @@
     <p><a href="https://www.facebook.com/Super-Raccord-147352751959836/">Super Raccord</a></p>
     <p><a href="https://www.facebook.com/Marcus-182459345935/">Marcus</a></p>
     <p><a href="https://www.facebook.com/Monsieur-Phal-124324084250556/">Monsieur Phal</a></p>
+    <p><a href="https://www.duam-laserie.com/">DUAM</a></p>
+    <p><a href="https://www.youtube.com/channel/UCwGeqKdAGQ_FQp3vftZ5abw?feature=plcp">Bruciare violini</a></p>
+    <p><a href="http://lesseigneursdoutremonde.com/">Les Seigneurs d'Outre Monde</a></p>
+    <p><a href="https://www.comptinesbarbares.com/">Comptines Barbares</a></p>
+    <p><a href="https://www.youtube.com/watch?v=4JdALmf8rto">Anthox Collaboy</a></p>
+  </div>
+
+  <div class="col-sm-6">
+    <h2><!-- tmpl_var name="text_friends_title_interviews" --></h2>
+    <p><a href="https://www.facebook.com/petitpointgeek/videos/1480637798661615/">Petit Point Geek - 1</a></p>
+    <p><a href="https://www.facebook.com/petitpointgeek/videos/1587049374687123/">Petit Point Geek - 2</a></p>
+    <p><a href="https://www.youtube.com/watch?v=JrO8sD0miH0&t">Geeks By Girls - 1</a></p>
+    <p><a href="https://www.youtube.com/watch?v=ELRShPNPvH0">Geeks By Girls - 2</a></p>
+    <p><a href="https://www.youtube.com/watch?v=iUotqvISFPM">Le Songeorium</a></p>
+    <p><a href="https://www.youtube.com/watch?v=h_M6UvpvW_k">Xavier Mateos</a></p>
   </div>
 
   <div class="col-sm-6">
@@ -32,7 +47,15 @@
     <p><a href="http://www.bibou.org/donjon/">Les Murmures du Donjon</a></p>
     <p><a href="https://www.facebook.com/Fiers-dêtre-GEEK-194379330585368/">Fiers d'être geek</a></p>
     <p><a href="https://www.dol-celeb.com/">Dol Celeb</a></p>
-    <p><a href="http://www.g33kmania.com/">GeekMania</a></p>
+    <p><a href="http://www.g33kmania.com/donjon-legacy-webserie-de-bad-fantasy-made-in-france/">G33kMania</a></p>
+    <p><a href="http://galaxy-geek.com/site/">Galaxy Geek</a></p>
+    <p><a href="https://game-guide.fr/217422-donjon-legacy-la-webserie-qui-met-les-mechants-a-lhonneur/">Game Guide</a></p>
+    <p><a href="https://www.geeksbygirls.com/donjon-legacy/">Geeks By Girls</a></p>
+    <p><a href="http://www.lunion.fr/50668/article/2017-09-20/une-webserie-tournee-dans-les-caves-de-chalons">L'Union</a></p>
+    <p><a href="https://libertadifrequenza.it/attualit%C3%A0-homepage/31-eventi-e-cultura-attualit%C3%A0/392-donjon-legacy-la-web-serie-fantasy-francese-ispirata-ai-giochi-di-ruolo.html">Libertà di Frequenza</a></p>
+    <p><a href="http://pausegeek.fr/articles/383-compte-rendu-du-japan-touch-harugeek-touch-2017.geek">Pause Geek</a></p>
+    <p><a href="http://www.maxoe.com/kissa/japon-dossiers/focus-evenement/japan-touch-haru-geek-touch-excellente-edition-2017/">MaXoE</a></p>
+    <p><a href="http://www.leparisien.fr/culture-loisirs/sortir-region-parisienne/sortir-a-paris-bienvenue-dans-un-monde-fantastique-02-11-2017-7369152.php">Le Parisien</a></p>
   </div>
 
   <div class="col-sm-6">
@@ -64,9 +87,8 @@
 
   <div class="col-sm-6">
     <h2><!-- tmpl_var name="text_friends_title_webbroadcasters" --></h2>
-    <p><a href="http://www.reddit.com/r/Fantasy/comments/489kqx/teaser_of_donjon_legacy_project_a_funny_bad/">Reddit /fantasy</a></p>
+    <p><a href="https://www.reddit.com/r/scifi/">Reddit /scifi</a></p>
   </div>
-
 
   <div class="col-sm-6">
     <h2><!-- tmpl_var name="text_friends_title_festivals" --></h2>
