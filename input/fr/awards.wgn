@@ -8,7 +8,9 @@ text_menu_contact: Contact
 text_menu_friends: Amis
 text_menu_press: Presse
 text_menu_awards: Récompenses
-text_awards_selections: Selections
+text_awards_season1: Saison 1
+text_awards_nominations: Nominations
+text_awards_selections: Selections officielles
 ----
 
 <!-- tmpl_include name="head.inc"-->
