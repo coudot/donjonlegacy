@@ -36,6 +36,7 @@
   <div class="col-md-4"><a href="http://sicilywebfest.com/"><img src="/images/logo_swf_2017.png" class="img-responsive" alt="Sicily Web Fest 2017 - Official selection" title="Sicily Web Fest 2017 - Official selection"/></a></div>
   <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_OFFICIAL_SELECTION_2017.png" class="img-responsive" alt="International Online Web Fest 2017 - Official selection" title="International Online Web Fest 2017 - Official selection"/></a></div>
   <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017.png" class="img-responsive" alt="Minnesota WebFest 2017 - Official selection" title="Minnesota WebFest 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WRPN.TVGlobalWebisodeCompetition-2017-OFFICIALSELECTION.png" class="img-responsive" alt="WRPN.TV Global Webisode Competition 2017 - Official selection" title="WRPN.TV Global Webisode Competition 2017 - Official selection"/></a></div>
 
 </div>
 
