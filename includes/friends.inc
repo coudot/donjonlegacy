@@ -51,7 +51,8 @@
     <p><a href="http://galaxy-geek.com/site/">Galaxy Geek</a></p>
     <p><a href="https://game-guide.fr/217422-donjon-legacy-la-webserie-qui-met-les-mechants-a-lhonneur/">Game Guide</a></p>
     <p><a href="https://www.geeksbygirls.com/donjon-legacy/">Geeks By Girls</a></p>
-    <p><a href="http://www.lunion.fr/50668/article/2017-09-20/une-webserie-tournee-dans-les-caves-de-chalons">L'Union</a></p>
+    <p><a href="http://www.lunion.fr/50668/article/2017-09-20/une-webserie-tournee-dans-les-caves-de-chalons">L'Union - 1</a></p>
+    <p><a href="http://www.lunion.fr/61300/article/2017-11-20/une-webserie-remoise-primee-en-coree">L'Union - 2</a></p>
     <p><a href="https://libertadifrequenza.it/attualit%C3%A0-homepage/31-eventi-e-cultura-attualit%C3%A0/392-donjon-legacy-la-web-serie-fantasy-francese-ispirata-ai-giochi-di-ruolo.html">Libertà di Frequenza</a></p>
     <p><a href="http://pausegeek.fr/articles/383-compte-rendu-du-japan-touch-harugeek-touch-2017.geek">Pause Geek</a></p>
     <p><a href="http://www.maxoe.com/kissa/japon-dossiers/focus-evenement/japan-touch-haru-geek-touch-excellente-edition-2017/">MaXoE</a></p>
