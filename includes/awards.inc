@@ -4,11 +4,16 @@
 
 <h2 class="text-center"><!-- tmpl_var name="title" --></h3>
 
-<a href="https://www.asiawebawards.com/"><img src="/images/asia_web_awards_2017_best_production_design.png" class="img-responsive center-block" alt="Asia Web Awards 2017 - Best Production Design" title="Asia Web Awards 2017 - Best Production Design" /></a>
+<div class="row">
+
+  <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_Award_Best_Production_Design.png" class="img-responsive center-block" alt="Asia Web Awards 2017 - Best Production Design" title="Asia Web Awards 2017 - Best Production Design" /></a></div>
+
+</div>
 
 <h2 class="text-center"><!-- tmpl_var name="text_awards_nominations" --></h2>
 
 <div class="row">
+
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_nomination_laurelcomedy.png" class="img-responsive" alt="Asia Web Awards 2017 - Best Comedy" title="Asia Web Awards 2017 - Best Comedy"/></a></div>
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_nomination_laurelcostume.png" class="img-responsive" alt="Asia Web Awards 2017 - Best Costume Design" title="Asia Web Awards 2017 - Best Costume Design"/></a></div>
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_nomination_laurelproduction.png" class="img-responsive" alt="Asia Web Awards 2017 - Best Production Design" title="Asia Web Awards 2017 - Best Production Design"/></a></div>
@@ -16,7 +21,9 @@
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_nomination_laurelsfx.png" class="img-responsive" alt="Asia Web Awards 2017 - Best Special Visual Effect" title="Asia Web Awards 2017 - Best Special Visual Effect"/></a></div>
   <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017_BEST_CINEMATOGRAPHY.png" class="img-responsive" alt="Minnesota WebFest 2017 - Best Cinematography" title="Minnesota WebFest 2017 - Best Cinematography"/></a></div>
   <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017_BEST_SCI-FI_FANTASY.png" class="img-responsive" alt="Minnesota WebFest 2017 - Best Sci-Fi Fantasy" title="Minnesota WebFest 2017 - Best Sci-Fi Fantasy"/></a></div>
-  <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_2017.png" class="img-responsive" alt="International Online Web Fest 2017 - Best European" title="International Online Web Fest 2017 - Best European"/></a></div>
+  <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_NOMINATION_2017BO.png" class="img-responsive" alt="International Online Web Fest 2017 - Best Original Soundtrack" title="International Online Web Fest 2017 - Best Original Soundtrack"/></a></div>
+  <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_NOMINATION_2017COSTUME.png" class="img-responsive" alt="International Online Web Fest 2017 - Best Costume Design" title="International Online Web Fest 2017 - Best Costume Design"/></a></div>
+  <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_NOMINATION_2017NEWCOMER.png" class="img-responsive" alt="International Online Web Fest 2017 - Best Newcomer Actor" title="International Online Web Fest 2017 - Best Newcomer Actor"/></a></div>
   <div class="col-md-4"><a href="http://fantasticplanetfilmfestival.com/"><img src="/images/Fantastic_Planet_2017_scifi.png" class="img-responsive" alt="Fantastic Planet Film Festival 2017 - Horror, Sci-Fi, Fantasy Film Festival" title="Fantastic Planet Film Festival 2017 - Horror, Sci-Fi, Fantasy Film Festival"/></a></div>
 
 </div>
