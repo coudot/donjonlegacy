@@ -7,6 +7,12 @@
 <div class="row">
 
   <div class="col-md-4"><a href="https://www.asiawebawards.com/"><img src="/images/AWA2017_Award_Best_Production_Design.png" class="img-responsive center-block" alt="Asia Web Awards 2017 - Best Production Design" title="Asia Web Awards 2017 - Best Production Design" /></a></div>
+  <div class="col-md-4"><a href="https://www.bnmwebfest.com"><img src="/images/BNMWF_2017_Award_Best_Fantasy.png" class="img-responsive center-block" alt="Baltimore Next Media Web Fest 2017 - Best Fantasy" title="Baltimore Next Media Web Fest 2017 - Best Fantasy" /></a></div>
+  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WGWC_2017_Award_Direction.png" class="img-responsive center-block" alt="WGWC 2017 - Excellence - Direction" title="WGWC 2017 - Excellence - Direction" /></a></div>
+  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WGWC_2017_Award_Costume_Design.png" class="img-responsive center-block" alt="WGWC 2017 - Excellence - Costume Design" title="WGWC 2017 - Excellence - Costume Design" /></a></div>
+  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WGWC_2017_Award_Actor_Lead.png" class="img-responsive center-block" alt="WGWC 2017 - Exceptional Merit - Actor Lead" title="WGWC 2017 - Exceptional Merit - Actor Lead" /></a></div>
+  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WGWC_2017_Award_Actor_Supporting.png" class="img-responsive center-block" alt="WGWC 2017 - Exceptional Merit - Actor Supporting" title="WGWC 2017 - Exceptional Merit - Actor Supporting" /></a></div>
+  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WGWC_2017_Award_Merit_Direction.png" class="img-responsive center-block" alt="WGWC 2017 - Exceptional Merit - Direction" title="WGWC 2017 - Exceptional Merit - Direction" /></a></div>
 
 </div>
 
@@ -43,7 +49,8 @@
   <div class="col-md-4"><a href="http://sicilywebfest.com/"><img src="/images/logo_swf_2017.png" class="img-responsive" alt="Sicily Web Fest 2017 - Official selection" title="Sicily Web Fest 2017 - Official selection"/></a></div>
   <div class="col-md-4"><a href="https://www.internationalonlinewebfest.com/"><img src="/images/IOWF_OFFICIAL_SELECTION_2017.png" class="img-responsive" alt="International Online Web Fest 2017 - Official selection" title="International Online Web Fest 2017 - Official selection"/></a></div>
   <div class="col-md-4"><a href="https://www.mnwebfest.com/"><img src="/images/MWF_2017.png" class="img-responsive" alt="Minnesota WebFest 2017 - Official selection" title="Minnesota WebFest 2017 - Official selection"/></a></div>
-  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WRPN.TVGlobalWebisodeCompetition-2017-OFFICIALSELECTION.png" class="img-responsive" alt="WRPN.TV Global Webisode Competition 2017 - Official selection" title="WRPN.TV Global Webisode Competition 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="http://wgwc1.com/"><img src="/images/WGWC_Official_Selection.png" class="img-responsive" alt="WGWC 2017 - Official selection" title="WGWC 2017 - Official selection"/></a></div>
+  <div class="col-md-4"><a href="https://www.romewebawards.it/"><img src="/images/RWA_2018_Official_Selection.png" class="img-responsive" alt="Rome Web Awards 2018 - Official selection" title="Rome Web Awards 2018 - Official selection"/></a></div>
 
 </div>
 
