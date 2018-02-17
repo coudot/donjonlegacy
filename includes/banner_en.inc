@@ -1,3 +1,12 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center">Season 2 crowdfunding</h3>
+  </div>
+  <div class="panel-body text-center">
+    <iframe frameborder="0" height="360px" width="300px" src="http://fr.ulule.com/donjon-legacy/widget.html" scrolling="no"></iframe>
+  </div>
+</div>
+
 <p class="text-center">
     <a class="btn btn-default" href="https://twitter.com/DonJon_Legacy"><i class="fa fa-twitter"></i></a>
     <a class="btn btn-default" href="https://www.facebook.com/donjonlegacy"><i class="fa fa-facebook"></i></a>
@@ -12,7 +21,7 @@
   </div>
   <div class="panel-body text-center">
   <a href="http://www.publier-un-livre.com/fr/le-livre-en-papier/387-le-chevalier-a-la-canne-a-peche-l-antevers-1">
-    <img src="/images/pub_chevalier_canne.jpg" class="img-responsive" />
+    <img src="/images/pub_chevalier_canne.jpg" class="img-responsive center-block" />
   </a>
   </div>
   <div class="panel-footer text-center" style="font-size:10pt;">

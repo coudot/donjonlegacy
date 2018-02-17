@@ -38,6 +38,6 @@
 
     <div class="row">
 
-        <div class="col-sm-9">
+        <div class="col-sm-8">
 
             <div id="content" class="panel panel-default panel-body">
