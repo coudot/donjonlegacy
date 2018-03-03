@@ -9,7 +9,7 @@
 </div>
 
 <ul>
-  <li><a href="http://guilhem0.free.fr/CPDonJonLegacy.pdf"><!-- tmpl_var name="text_press_release" --></a></li>
-  <li><a href="http://guilhem0.free.fr/dossierPresseDJL.pdf"><!-- tmpl_var name="text_press_pack" --></a></li>
-  <li><a href="http://guilhem0.free.fr/KitpressDJL.zip"><!-- tmpl_var name="text_press_kit" --></a></li>
+  <li><a href="https://drive.google.com/open?id=1Kdge1XqumisMf4Oo51WJsXRJ2fvVn9vs"><!-- tmpl_var name="text_press_release" --></a></li>
+  <li><a href="https://drive.google.com/open?id=1T2lQriRoNyN5Bluf0_Xq658Aa9P0oyfo"><!-- tmpl_var name="text_press_pack" --></a></li>
+  <li><a href="https://drive.google.com/open?id=1BsIIO4Dr54bFOFqyfTszsgUbH78MdkPk"><!-- tmpl_var name="text_press_kit" --></a></li>
 </ul>
