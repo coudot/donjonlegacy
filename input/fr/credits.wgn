@@ -60,6 +60,7 @@ text_credits_sound_recordist_ep3: Opérateur son Ep 3
 text_credits_makeup_ep3: Maquilleuse Ep 3
 text_credits_sound_recordist_voice_over: Opérateur son voix off
 text_credits_color_grading: Étalonnage
+text_credits_communication_help: Aides à la communication
 ----
 
 <!-- tmpl_include name="head.inc"-->

@@ -214,6 +214,15 @@
       Sébastien Sera<br />
     </td>
   </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_communication_help" --></th>
+    <td>
+      Bruno Krupa<br />
+      Aurélie Watiaux<br />
+      Nadège Dupuis<br />
+      Vincent Dupuis<br />
+    </td>
+  </tr>
 </table>
 
 <table class="credits table table-striped">

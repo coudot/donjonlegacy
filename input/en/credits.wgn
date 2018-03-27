@@ -45,7 +45,7 @@ text_credits_german_translator: German translation
 text_credits_italian_translator: Italian translation
 text_credits_costume_help: Additional Costumes & Props
 text_credits_managing_help: Managing help
-text_credits_decoration_help: Decoration et Accessories help
+text_credits_decoration_help: Decoration and accessories help
 text_credits_special_thanks: Special thanks to
 text_credits_more_thanks: More thanks to
 text_credits_locations: Locations of shooting
@@ -60,6 +60,7 @@ text_credits_sound_recordist_ep3: Sound Recordist Ep 3
 text_credits_makeup_ep3: Make-up Artist Ep 3
 text_credits_sound_recordist_voice_over: Sound Recordist voice over
 text_credits_color_grading: Color grading
+text_credits_communication_help: Communication help
 ----
 
 <!-- tmpl_include name="head.inc"-->
