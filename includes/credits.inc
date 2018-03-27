@@ -220,7 +220,7 @@
       Bruno Krupa<br />
       Aurélie Watiaux<br />
       Nadège Dupuis<br />
-      Vincent Dupuis<br />
+      Vincent Dupuis (Valdarion)<br />
     </td>
   </tr>
 </table>
