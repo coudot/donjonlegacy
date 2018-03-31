@@ -218,7 +218,7 @@
     <th><!-- tmpl_var name="text_credits_communication_help" --></th>
     <td>
       Bruno Krupa<br />
-      Aurélie Watiaux<br />
+      Aurélie Watieaux<br />
       Nadège Dupuis<br />
       Vincent Dupuis (Valdarion)<br />
     </td>
