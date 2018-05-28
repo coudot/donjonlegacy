@@ -21,17 +21,6 @@
 
 <table class="credits table table-striped">
   <tr>
-    <th><!-- tmpl_var name="text_credits_main_producer" --></th>
-    <td>Guilhem</td>
-  </tr>
-  <tr>
-    <th><!-- tmpl_var name="text_credits_producer" --></th>
-    <td>Association Onze Création / Olivier Ziel</td>
-  </tr>
-</table>
-
-<table class="credits table table-striped">
-  <tr>
     <th><!-- tmpl_var name="text_credits_dungeon_master" --></th>
     <td>Sébastien Sera</td>
   </tr>
@@ -80,7 +69,7 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_sound_engineer" --></th>
-    <td>Lucas Rollin, Axel Renault</td>
+    <td>Lucas Rollin</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_sound_recordist_ep3" --></th>
@@ -126,16 +115,22 @@
 
 <table class="credits table table-striped">
   <tr>
+    <th><!-- tmpl_var name="text_credits_editors_motion_designers" --></th>
+    <td>Nicolas Brasseur, Olivier Ziel</td>
+  </tr>
+  <tr>
+    <th><!-- tmpl_var name="text_credits_sound_mixer" --></th>
+    <td>Axel Renault</td>
+  </tr>
+  <tr>
     <th><!-- tmpl_var name="text_credits_credits" --></th>
-    <td>Nicolas Brasseur</td>
+    <td>Nicolas Brasseur (<!-- tmpl_var name="text_credits_motion_design" -->)<br />
+    Lucas Rollin (<!-- tmpl_var name="text_credits_sound_design_mix" -->)
+    </td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_color_grading" --></th>
     <td>Alexandre Sadowsky</td>
-  </tr>
-  <tr>
-    <th><!-- tmpl_var name="text_credits_special_effects" --></th>
-    <td></td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_special_effects_3d" --></th>
@@ -185,7 +180,7 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_graphic_designer" --></th>
-    <td>Vincere Studio</td>
+    <td>Vincere Studio <a href="http://cargocollective.com/vincere"><i class="fa fa-globe"></i></a></td>
   </tr>
 </table>
 

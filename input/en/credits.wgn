@@ -8,11 +8,9 @@ text_menu_contact: Contact
 text_menu_friends: Friends
 text_menu_press: Press
 text_menu_awards: Awards
-text_credits_intro: We all worked for free while holding down other. Nobody earned anything from this project but we are trying to professionalize the DonJon Legacy in order to offer you a longer and better series. 
+text_credits_intro: We all have worked pro bono and have another job on the side. Nobody has made money from this project but we're trying to professionalize DonJon Legacy in order to give you a better and longer series.
 text_credits_creator: Creator / Scenarist / Art direction 
 text_credits_director: Director / Editor
-text_credits_main_producer: Main Producer
-text_credits_producer: Producer
 text_credits_dungeon_master: The Dungeon Master
 text_credits_beast_master: The Beast Master
 text_credits_stagehand: The Stangehand
@@ -24,7 +22,7 @@ text_credits_dungeon_heart_voice: The Dungeon's Heart voice
 text_credits_stone_truth_voice: The Stone of Truth voice
 text_credits_assistant_director: Assistant Director
 text_credits_photography_director: Cinematographer
-text_credits_sound_engineer: Sound Mixer
+text_credits_sound_engineer: Sound Recordist
 text_credits_first_assistant_camera: Camera Operator
 text_credits_assistant_camera: Assistant camera
 text_credits_electrician: Electrician
@@ -32,8 +30,7 @@ text_credits_costumier: Costumier
 text_credits_makeup: Special Effects Make-up Artist
 text_credits_puppeteer: Puppeteer
 text_credits_colour_grading: Colour grading
-text_credits_credits: Opening Credits Motion Designer
-text_credits_special_effects: Special Effects (2D)
+text_credits_credits: Opening Credits
 text_credits_special_effects_3d: Special Effects (3D)
 text_credits_dragon_modeling: Dragon modeling
 text_credits_demon_modeling: Demon modeling
@@ -61,6 +58,10 @@ text_credits_makeup_ep3: Make-up Artist Ep 3
 text_credits_sound_recordist_voice_over: Sound Recordist voice over
 text_credits_color_grading: Color grading
 text_credits_communication_help: Communication help
+text_credits_editors_motion_designers: Editors, Motion Designers
+text_credits_sound_mixer: Sound mixer
+text_credits_motion_design: motion design
+text_credits_sound_design_mix: sound design/mix
 ----
 
 <!-- tmpl_include name="head.inc"-->

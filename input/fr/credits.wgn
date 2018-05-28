@@ -11,8 +11,6 @@ text_menu_awards: Récompenses
 text_credits_intro: Nous avons tous travaillé gratuitement et nous avons tous un autre travail. Personne ne vit de ce projet mais nous essayons de professionnaliser DonJon Legacy pour vous offrir une série plus longue et de meilleure qualité.
 text_credits_creator: Créateur / Scénariste / Directeur artistique
 text_credits_director: Réalisateur / Monteur
-text_credits_main_producer: Producteur
-text_credits_producer: Co-producteur
 text_credits_dungeon_master: Le Maître du Donjon
 text_credits_beast_master: Le Dresseur de Créatures
 text_credits_stagehand: Le Machiniste
@@ -24,7 +22,7 @@ text_credits_dungeon_heart_voice: La voix du Coeur du Donjon
 text_credits_stone_truth_voice: La voix de la Pierre de Vérité
 text_credits_assistant_director: Assistant réalisateur
 text_credits_photography_director: Directeur de la photographie
-text_credits_sound_engineer: Ingénieur son / mixeur
+text_credits_sound_engineer: Ingénieur son
 text_credits_first_assistant_camera: Opérateur de prises de vue
 text_credits_assistant_camera: Assistante caméra
 text_credits_electrician: Électricien
@@ -32,8 +30,7 @@ text_credits_costumier: Costumière
 text_credits_makeup: Maquilleuse SFX
 text_credits_puppeteer: Marionnettiste
 text_credits_colour_grading: Étalonnage
-text_credits_credits: Vidéographiste - générique de début
-text_credits_special_effects: Effets visuels (2D)
+text_credits_credits: Générique de début
 text_credits_special_effects_3d: Effets visuels (3D)
 text_credits_dragon_modeling: Modèle du dragon
 text_credits_demon_modeling: Modèle du démon
@@ -61,6 +58,10 @@ text_credits_makeup_ep3: Maquilleuse Ep 3
 text_credits_sound_recordist_voice_over: Opérateur son voix off
 text_credits_color_grading: Étalonnage
 text_credits_communication_help: Aides à la communication
+text_credits_editors_motion_designers: Monteurs-truquistes
+text_credits_sound_mixer: Mixeur
+text_credits_motion_design: vidéographisme
+text_credits_sound_design_mix: bruitage/mixage
 ----
 
 <!-- tmpl_include name="head.inc"-->
