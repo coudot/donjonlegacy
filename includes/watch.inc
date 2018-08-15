@@ -38,6 +38,9 @@
       <li><a href="https://www.youtube.com/watch?v=1wJKAFemCVo"><tmpl_var name="text_watch_s01e08" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=Ez6b0CSeBa0"><tmpl_var name="text_watch_s01e09" /></a></li>
     </ul>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=HghgnhyENP0"><tmpl_var name="text_watch_s01ebonus" /></a></li>
+    </ul>
     <h2><tmpl_var name="text_watch_season" /> 2</h2>
     <p><i><tmpl_var name="text_watch_subtitles" /></i></p>
     <ul>
