@@ -13,6 +13,7 @@
     <a class="btn btn-default" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i></a>
     <a class="btn btn-default" href="http://www.dailymotion.com/donjonlegacy"><i class="fa fa-video-camera"></i></a>
     <a class="btn btn-default" href="http://donjonlegacy.tumblr.com/"><i class="fa fa-tumblr"></i></a>
+    <a class="btn btn-default" href="https://www.instagram.com/donjonlegacy/"><i class="fa fa-instagram"></i></a>
 </p>
 
 <div class="panel panel-default">
