@@ -4,8 +4,7 @@
 <div class="text-center">
   <div class="alert alert-djl">
     <tmpl_var name="text_watch_channels" />
-    <a class="btn btn-default" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i></a>
-    <a class="btn btn-default" href="http://www.dailymotion.com/donjonlegacy"><i class="fa fa-video-camera"></i></a>
+    <a href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw" class="text-danger"><i class="fa fa-youtube"></i> Youtube</a>
   </div>
 </div>
 
