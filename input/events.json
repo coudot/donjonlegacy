@@ -1,0 +1,6 @@
+{
+	"joutestemeraires2018": { "name": "Joutes du Téméraire (Nancy)", "start": "2018-10-20T08:00:00.000Z", "end": "2018-10-21T18:00:00.000Z", "link": "https://www.joutesdutemeraire.fr/" },
+	"comicconparis2018": { "name": "Comic Con (Paris)", "start": "2018-10-26T08:00:00.000Z", "end": "2018-10-28T18:00:00.000Z", "link": "https://www.comic-con-paris.com" },
+	"salonfantastique2018": { "name": "Salon Fantastique (Paris)", "start": "2018-11-02T08:00:00.000Z", "end": "2018-11-04T18:00:00.000Z", "link": "https://www.salon-fantastique.com/" },
+	"gameinreims2018": { "name": "Game in Reims (Reims)", "start": "2018-11-24T08:00:00.000Z", "end": "2018-11-25T18:00:00.000Z", "link": "http://gameinreims.fr/" }
+}
