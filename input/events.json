@@ -2,5 +2,7 @@
 	"joutestemeraires2018": { "name": "Joutes du Téméraire (Nancy)", "start": "2018-10-20T08:00:00.000Z", "end": "2018-10-21T18:00:00.000Z", "link": "https://www.joutesdutemeraire.fr/" },
 	"comicconparis2018": { "name": "Comic Con (Paris)", "start": "2018-10-26T08:00:00.000Z", "end": "2018-10-28T18:00:00.000Z", "link": "https://www.comic-con-paris.com" },
 	"salonfantastique2018": { "name": "Salon Fantastique (Paris)", "start": "2018-11-02T08:00:00.000Z", "end": "2018-11-04T18:00:00.000Z", "link": "https://www.salon-fantastique.com/" },
-	"gameinreims2018": { "name": "Game in Reims (Reims)", "start": "2018-11-24T08:00:00.000Z", "end": "2018-11-25T18:00:00.000Z", "link": "http://gameinreims.fr/" }
+	"theoverkillfestival2018": { "name": "The Overkill Festival (Netherlands)", "start": "2018-11-23T08:00:00.000Z", "end": "2018-11-25T18:00:00.000Z", "link": "https://www.theoverkill.nl" },
+	"gameinreims2018": { "name": "Game in Reims (Reims)", "start": "2018-11-24T08:00:00.000Z", "end": "2018-11-25T18:00:00.000Z", "link": "http://gameinreims.fr/" },
+	"tgs2018": { "name": "Toulouse Game Show (Toulouse)", "start": "2018-12-01T08:00:00.000Z", "end": "2018-12-02T18:00:00.000Z", "link": "https://www.toulouse-game-show.fr/" }
 }
