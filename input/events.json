@@ -5,8 +5,12 @@
 	"theoverkillfestival2018": { "name": "The Overkill Festival (Netherlands)", "start": "2018-11-23T08:00:00.000Z", "end": "2018-11-25T18:00:00.000Z", "link": "https://www.theoverkill.nl" },
 	"gameinreims2018": { "name": "Game in Reims (Reims)", "start": "2018-11-24T08:00:00.000Z", "end": "2018-11-25T18:00:00.000Z", "link": "http://gameinreims.fr/" },
 	"tgs2018": { "name": "Toulouse Game Show (Toulouse)", "start": "2018-12-01T08:00:00.000Z", "end": "2018-12-02T18:00:00.000Z", "link": "https://www.toulouse-game-show.fr/" },
+	"ces2019": { "name": "Colmar Esport Show (Colmar)", "start": "2019-01-19T08:00:00.000Z", "end": "2019-01-20T18:00:00.000Z", "link": "https://www.colmar-esport.com/" },
 	"pgf2019": { "name": "Poitiers Geek Festival (Poitiers)", "start": "2019-02-09T08:00:00.000Z", "end": "2019-02-10T18:00:00.000Z", "link": "https://poitiersgeekfestival.com" },
 	"jtf2019": { "name": "Japan Tours Festival (Tours)", "start": "2019-02-22T08:00:00.000Z", "end": "2019-02-24T18:00:00.000Z", "link": "http://www.japantoursfestival.com" },
+	"jes2019": { "name": "Japan Expo Sud (Marseille)", "start": "2019-02-22T08:00:00.000Z", "end": "2019-02-24T18:00:00.000Z", "link": "https://www.japan-expo-sud.com" },
+	"gdr2019": { "name": "Geek Days (Rennes)", "start": "2019-03-02T08:00:00.000Z", "end": "2019-03-03T18:00:00.000Z", "link": "https://www.geek-days.com/rennes/" },
 	"cgs2019": { "name": "Carolo Game Show (Charleville-Mezières)", "start": "2019-04-06T08:00:00.000Z", "end": "2019-04-07T18:00:00.000Z", "link": "https://www.carologameshow.com/" },
+	"gdl2019": { "name": "Geek Days (Lille)", "start": "2019-05-18T08:00:00.000Z", "end": "2019-05-19T18:00:00.000Z", "link": "https://www.geek-days.com/lille/" },
 	"bgf2019": { "name": "Bordeaux Geek Festival (Bordeaux)", "start": "2019-06-08T08:00:00.000Z", "end": "2019-06-10T18:00:00.000Z", "link": "https://www.carologameshow.com/" }
 }
