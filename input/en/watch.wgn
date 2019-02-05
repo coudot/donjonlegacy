@@ -25,6 +25,7 @@ text_watch_s01ebonus: Episode bonus - The fault
 text_watch_season2: Work in progress
 text_watch_season1_playlist: Season playlist
 text_watch_s02e01: Episode 1 - The verjuice
+text_watch_s02e02: Episode 2 - The skeleton daemon
 ----
 
 <!-- tmpl_include name="head.inc"-->
