@@ -6,6 +6,7 @@
   <div class="alert alert-djl text-left">
     <!-- tmpl_var name="text_friends_intro" -->
   </div>
+  <a href="/images/cairn-djl.png" alt="Cairn DJL"><img src="/images/cairn-djl_600px.png" class="img-responsive img-thumbnail" /></a>
 </div>
 
 <div class="row text-center">
