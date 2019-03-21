@@ -1,9 +1,9 @@
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title text-center">Financement de la saison 2</h3>
+    <h3 class="panel-title text-center">Peluche Teignome</h3>
   </div>
   <div class="panel-body text-center">
-    <iframe frameborder="0" height="360px" width="300px" src="http://fr.ulule.com/donjon-legacy/widget.html" scrolling="no"></iframe>
+    <iframe frameborder="0" height="360px" width="300px" src="http://fr.ulule.com/mascotte-donjon-legacy/widget.html" scrolling="no"></iframe>
   </div>
 </div>
 
