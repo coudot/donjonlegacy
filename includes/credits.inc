@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_demonist" --></th>
-    <td>Julie Douine</td>
+    <td>Julie Renard</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_grumpy_gnome" --></th>
