@@ -11,5 +11,6 @@
 	"jes2019": { "name": "Japan Expo Sud (Marseille)", "start": "2019-02-22T08:00:00.000Z", "end": "2019-02-24T18:00:00.000Z", "link": "https://www.japan-expo-sud.com" },
 	"gdr2019": { "name": "Geek Days (Rennes)", "start": "2019-03-02T08:00:00.000Z", "end": "2019-03-03T18:00:00.000Z", "link": "https://www.geek-days.com/rennes/" },
 	"cgs2019": { "name": "Carolo Game Show (Charleville-Mezières)", "start": "2019-04-06T08:00:00.000Z", "end": "2019-04-07T18:00:00.000Z", "link": "https://www.carologameshow.com/" },
+	"gtl2019": { "name": "Geek Touch (Lyon)", "start": "2019-05-04T08:00:00.000Z", "end": "2019-05-05T18:00:00.000Z", "link": "https://geektouch-festival.com/2019/" },
 	"gdl2019": { "name": "Geek Days (Lille)", "start": "2019-05-18T08:00:00.000Z", "end": "2019-05-19T18:00:00.000Z", "link": "https://www.geek-days.com/lille/" }
 }
