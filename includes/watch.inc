@@ -45,6 +45,7 @@
     <ul>
       <li><a href="https://www.youtube.com/watch?v=rWhaQBglm4k"><tmpl_var name="text_watch_s02e01" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=3Kpat2stI-0"><tmpl_var name="text_watch_s02e02" /></a></li>
+      <li><a href="https://www.youtube.com/watch?v=xf03TiTIrgk"><tmpl_var name="text_watch_s02e03" /></a></li>
     </ul>
     <p><i class="fa fa-clock-o"></i> <tmpl_var name="text_watch_season2" /></p>
   </div>
