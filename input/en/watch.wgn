@@ -27,6 +27,7 @@ text_watch_season1_playlist: Season playlist
 text_watch_s02e01: Episode 1 - The verjuice
 text_watch_s02e02: Episode 2 - The skeleton daemon
 text_watch_s02e03: Episode 3 - Gurgle
+text_watch_s02e04: Episode 4 - Curse
 ----
 
 <!-- tmpl_include name="head.inc"-->

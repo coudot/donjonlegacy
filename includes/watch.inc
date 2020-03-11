@@ -41,13 +41,12 @@
       <li><a href="https://www.youtube.com/watch?v=HghgnhyENP0"><tmpl_var name="text_watch_s01ebonus" /></a></li>
     </ul>
     <h2><tmpl_var name="text_watch_season" /> 2</h2>
-    <p><i><tmpl_var name="text_watch_subtitles" /></i></p>
     <ul>
       <li><a href="https://www.youtube.com/watch?v=rWhaQBglm4k"><tmpl_var name="text_watch_s02e01" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=3Kpat2stI-0"><tmpl_var name="text_watch_s02e02" /></a></li>
       <li><a href="https://www.youtube.com/watch?v=xf03TiTIrgk"><tmpl_var name="text_watch_s02e03" /></a></li>
+      <li><a href="https://www.youtube.com/watch?v=awmbm__m4i8"><tmpl_var name="text_watch_s02e04" /></a></li>
     </ul>
-    <p><i class="fa fa-clock-o"></i> <tmpl_var name="text_watch_season2" /></p>
   </div>
 
 </div>
