@@ -1,6 +1,6 @@
 title: Presse
 en-link: /en/press.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -15,7 +15,6 @@ text_press_kit: Kit de visuels
 text_challenge: Concours : Gagne des cochons d'inde tueurs de DonJon Legacy !
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

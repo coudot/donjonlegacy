@@ -1,6 +1,6 @@
 title: Credits
 en-link: /en/credits.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -64,7 +64,6 @@ text_credits_motion_design: vidéographisme
 text_credits_sound_design_mix: bruitage/mixage
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

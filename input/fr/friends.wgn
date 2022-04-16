@@ -1,6 +1,6 @@
 title: Amis
 en-link: /en/friends.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -18,7 +18,6 @@ text_friends_title_webbroadcasters: Diffuseurs Web
 text_friends_title_festivals: Festivals
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

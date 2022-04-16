@@ -1,6 +1,6 @@
 title: Hall
 en-link: /en/hall.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -21,7 +21,6 @@ text_hall_weapon: Arme favorite
 text_hall_alignment: Alignement
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

@@ -1,7 +1,7 @@
 title: Contact
 en-link: /en/contact.html
 returnlink: /fr/mail.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -24,7 +24,6 @@ text_contact_nomail: Envoi de message temporairement non fonctionnel, merci de n
 text_contact_mailinput: Votre adresse mail
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

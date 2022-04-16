@@ -26,7 +26,6 @@ text_dungeon_cave_title: The Creatures Cave
 text_dungeon_cave_description: In this cave, the Beast Master trains savage and evil creatures to massacre the potential robbers, or ever better: just frighten them.
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

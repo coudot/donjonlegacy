@@ -19,11 +19,13 @@ text_home_calendar_summer: Summer
 text_home_calendar_january: January
 text_home_calendar_201607: Complete Season 1 (streaming)
 text_home_calendar_201701: Season 2 - Episode 1 (streaming)
+text_home_banner: A fucking comical Bad Fantasy serie
+text_home_watchall: See all episodes
 ----
 
-<!-- tmpl_include name="head.inc"-->
-
 <!-- tmpl_include name="menu.inc"-->
+
+<!-- tmpl_include name="banner.inc"-->
 
 <!-- tmpl_include name="home.inc"-->
 

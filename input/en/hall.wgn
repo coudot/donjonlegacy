@@ -21,7 +21,6 @@ text_hall_weapon: Favorite weapon
 text_hall_alignment: Alignment
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

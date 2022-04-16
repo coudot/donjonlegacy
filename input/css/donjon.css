@@ -7,98 +7,11 @@
   src: url("../fonts/caliguladodgy.ttf");
 }
 
-html,
-body {
-  height: 100%;
-  background: url("../images/background.jpg") no-repeat center fixed;
-  background-size: cover;
-  font-size: 12pt;
-  padding-top:10px;
-}
-
-a, a:hover {
-  text-decoration: none;
-  color: #32728a;
-}
-
 h1, h2, h3, h4 {
   font-family: "CaligulaDodgy";
   font-variant: small-caps;
   text-shadow: 0px 0px 5px #32728a;
 }
-
-div#content, div.panel {
-  background: rgb(255, 255, 255);
-  background: rgba(255, 255, 255, 0.7);
-  box-shadow: 0px 0px 30px #32728a;
-  border: 0;
-}
-
-table.credits {
-  border: 1px solid black;
-  margin: 10px auto;
-  font-size: inherit;
-}
-
-table.credits th {
-  width: 50%;
-}
-
-div.calendar-date {
-  border: 5px white solid;
-  border-radius: 50%/50%;
-  padding: 15px 0;
-  margin: 5px;
-  width: 100px;
-  height: 100px;
-  background: #ddd;
-  box-shadow: 0px 0px 30px #32728a;
-}
-
-div.calendar-text {
-  padding: 40px 20px;
-  font-size: 14pt;
-}
-
-/* Override bootstrap styles */
-.btn {
-  white-space: normal;
-}
-
-.navbar, .alert {
-  font-size: inherit;
-  font-weight: inherit;
-}
-
-ul.navbar-nav i.fa {
-  margin-right: 8px;
-}
-
-a.btn-default:hover {
-  background: #32728a;
-  color: #ddd;
-  border: 1px transparent solid;
-}
-
-.hvr-buzz {
-  display: inherit;
-}
-
-.navbar-default {
-  background-color: rgb(0,0,0);
-  background-color: rgba(0,0,0,0.5);
-  box-shadow: 0px 0px 30px 5px #32728a;
-  text-shadow: 0px 0px 20px #32728a;
-}
-
-.alert-djl {
-  background-color: rgb(50,114, 138);
-  background-color: rgba(50,114, 138, 0.6);
-  box-shadow: 0px 0px 20px #32728a;
-  color: #ddd;
-  border-radius: 5px;
-}
-
 
 /* Magic cards */
 div.magiccard {
@@ -150,64 +63,13 @@ div.magiccard table th {
   width: 40%;
 }
 
-/* Wrapper for page content to push down footer */
-#wrap {
-  min-height: 100%;
-  height: auto;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0px 0 80px;
+#banner:after {
+  background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
+  background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
+  background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
+  background-image: linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
 }
 
-/* Set the fixed height of the footer here */
-#footer {
-  height: 60px;
-  text-align: center;
-  background-color: rgb(0,0,0);
-  background-color: rgba(0,0,0,0.5);
-  padding: 10px;
-}
-
-/* Animations */
-
-h1 {
-  animation: djl-text 1s;
-}
-
-.alert-djl {
-  animation: djl-shadow 2s;
-}
-
-.navbar-default ul.navbar-nav>li>a:hover{
-  animation: djl-menu 1s infinite alternate;
-}
-
-@keyframes djl-text {
-  0% {
-    text-shadow: 0px 0px 10px #000;
-    margin-left: 100px;
-    color: #32728a;
-  }
-  100% {
-    text-shadow: 0px 0px 5px #32728a;
-  }
-}
-
-@keyframes djl-shadow {
-  0% {
-    box-shadow: 0px 0px 0px #32728a;
-  }
-  100% {
-    box-shadow: 0px 0px 20px #32728a;
-  }
-}
-
-@keyframes djl-menu {
-  0% {
-  }
-  100% {
-    background: #32728a;
-    box-shadow: 0px 0px 10px 3px #32728a;
-  }
+iframe.image.fit {
+  height: 100%;
 }

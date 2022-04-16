@@ -15,7 +15,6 @@ text_press_kit: Press kit
 text_challenge: Challenge! Win killer guinea pigs from DonJon Legacy!
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 

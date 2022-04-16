@@ -1,25 +1,38 @@
-<h1 class="text-center">DonJon Legacy</h1>
+            <!-- One -->
+                <section id="one" class="spotlight style1 bottom">
+                    <span class="image fit main"><img src="/images/djl_cochondinde.png" alt="Cochon d'inde tueur" /></span>
+                    <div class="content">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-4 col-12-medium">
+                                    <header>
+                                        <h2><tmpl_var name="text_home_hi" /></h2>
+                                        <p><tmpl_var name="text_home_what" /></p>
+                                        <img src="/images/teignome2.png" alt="teignome" class="img-responsive hvr-buzz center-block" style="max-height: 300px;"/>
+                                    </header>
+                                </div>
+                                <div class="col-8 col-12-medium">
+                                    <iframe class="image fit" src="https://www.youtube.com/embed/1GtwdA92f6U" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="#two" class="goto-next scrolly">Next</a>
+                </section>
 
-<hr />
-
-<div class="text-center embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1GtwdA92f6U" allowfullscreen></iframe>
-</div>
-
-<div class="row">
-
-  <div class="col-sm-7">
-    <h2 class="text-center"><tmpl_var name="text_home_hi" /></h2>
-    <p><strong><tmpl_var name="text_home_what" /></strong></p>
-    <img src="/images/teignome2.png" alt="teignome" class="img-responsive hvr-buzz center-block" style="max-height: 300px;"/>
-  </div>
-
-  <div class="col-sm-5">
-    <h2 class="text-center"><tmpl_var name="text_home_pitch_title" /></h2>
-    <div class="text-center" style="margin-bottom:10px;"><img src="/images/cast.jpg" class="img-responsive img-thumbnail" /></div>
-    <div class="alert alert-djl"><tmpl_var name="text_home_pitch" /></div>
-  </div>
-
-</div>
-
+            <!-- Two -->
+                <section id="two" class="spotlight style2 right">
+                    <span class="image fit main"><img src="/images/djl_jon_feu.png" alt="Jon" /></span>
+                    <div class="content">
+                        <header>
+                            <h2><tmpl_var name="text_home_pitch_title" /></h2>
+                            <p><tmpl_var name="text_home_pitch" /></p>
+                        </header>
+                        <span class="image fit"><img src="/images/cast.jpg" alt="Cast" /></span>
+                        <ul class="actions">
+                            <li><a href="watch.html" class="button"><!-- tmpl_var name="text_home_watchall" --></a></li>
+                        </ul>
+                    </div>
+                    <a href="#three" class="goto-next scrolly">Next</a>
+                </section>
 

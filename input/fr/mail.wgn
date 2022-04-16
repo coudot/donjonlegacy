@@ -1,6 +1,6 @@
 title: Message envoyé
 fr-link: /en/mail.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -11,7 +11,6 @@ text_menu_awards: Récompenses
 text_mail_read: Nous nous battrons pour vous lire !
 ----
 
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 
