@@ -11,13 +11,6 @@ text_menu_awards: Récompenses
 text_mail_read: Nous nous battrons pour vous lire !
 ----
 
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="mail.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_fr.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->

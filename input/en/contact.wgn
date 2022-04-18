@@ -24,13 +24,6 @@ text_contact_nomail: Message delivery not working for now, please reach us troug
 text_contact_mailinput: Your mail address
 ----
 
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="contact.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_en.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
