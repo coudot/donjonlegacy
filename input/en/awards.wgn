@@ -13,13 +13,6 @@ text_awards_nominations: Nominations
 text_awards_selections: Official selections
 ----
 
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="awards.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_en.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
