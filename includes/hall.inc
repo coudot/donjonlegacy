@@ -13,7 +13,7 @@
 
   <!-- tmpl_loop name='defenders' -->
 
-  <div class="col-6 align-center">
+  <div class="col-4 col-12-xsmall align-center">
 
   <div class="magiccard defenders">
 
