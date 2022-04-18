@@ -79,3 +79,12 @@ div.magiccard table td {
 iframe.image.fit {
   height: 100%;
 }
+
+div.hall h2 {
+  clear: both;
+  text-align: center;
+}
+
+div.hall .image {
+  margin-bottom: 100px;
+}

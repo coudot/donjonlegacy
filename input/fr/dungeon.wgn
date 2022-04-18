@@ -26,13 +26,6 @@ text_dungeon_cave_title: La Cave des créatures
 text_dungeon_cave_description: C'est dans cette pièce que le Dresseur élève les féroces et maléfiques créatures censées massacrer les pillards éventuels ou mieux : juste leur faire peur.
 ----
 
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="dungeon.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_fr.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
