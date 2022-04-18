@@ -64,13 +64,6 @@ text_credits_motion_design: vidéographisme
 text_credits_sound_design_mix: bruitage/mixage
 ----
 
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="credits.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_fr.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
