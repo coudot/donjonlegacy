@@ -18,13 +18,6 @@ text_friends_title_webbroadcasters: Web broadcasters
 text_friends_title_festivals: Festivals
 ----
 
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="friends.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_en.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
