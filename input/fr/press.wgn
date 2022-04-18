@@ -15,13 +15,6 @@ text_press_kit: Kit de visuels
 text_challenge: Concours : Gagne des cochons d'inde tueurs de DonJon Legacy !
 ----
 
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="press.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_fr.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
