@@ -40,6 +40,7 @@ div.magiccard div.cardtitle {
   text-align: left;
   border: 5px #008cba solid;
   box-shadow: -1px 1px 0px 1px #000;
+  color: black;
 }
 
 div.magiccard img {
@@ -61,6 +62,11 @@ div.magiccard div.panel {
 
 div.magiccard table th {
   width: 40%;
+  color: black;
+}
+
+div.magiccard table td {
+  color: black;
 }
 
 #banner:after {
