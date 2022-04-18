@@ -26,11 +26,3 @@ text_home_watchall: See all episodes
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="banner.inc"-->
-
-<!-- tmpl_include name="home.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_en.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
