@@ -14,7 +14,7 @@
 <table>
   <tr>
     <th><!-- tmpl_var name="text_credits_creator" --></th>
-    <td>Guilhem <a href="https://www.facebook.com/Guilhem-53297726330/"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/Guilhem0"><i class="fa fa-twitter-square"></i></a> <a href="http://guilhem0.free.fr/"><i class="fa fa-globe"></i></a></td>
+    <td>Guilhem (<a href="https://www.facebook.com/Guilhem-53297726330/">Facebook</a> / <a href="https://twitter.com/Guilhem0">Twitter</a> / <a href="http://guilhem0.free.fr/">Site</a>)</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_director" --></th>
@@ -174,7 +174,7 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_graphic_designer" --></th>
-    <td>Vincere Studio <a href="http://cargocollective.com/vincere"><i class="fa fa-globe"></i></a></td>
+    <td>Vincere Studio (<a href="http://cargocollective.com/vincere">Site</a>)</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_managing_help" --></th>
