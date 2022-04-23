@@ -1,5 +1,6 @@
 title: Contact
 en-link: /en/contact.html
+backlink: /fr/contact.html
 returnlink: /fr/mail.html
 text_menu_watch: Regarder
 text_menu_hall: Hall
@@ -22,6 +23,7 @@ text_contact_evening: Vous voulez nous inviter à un événement
 text_contact_other: Autres
 text_contact_nomail: Envoi de message temporairement non fonctionnel, merci de nous contacter par les réseaux sociaux
 text_contact_mailinput: Votre adresse mail
+text_contact_human: Cochez cette case si vous n'êtes pas un Teignome qui envoie du spam à notre équipe
 ----
 
 <!-- tmpl_include name="menu.inc"-->

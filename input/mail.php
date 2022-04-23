@@ -2,14 +2,20 @@
     $subject = $_POST["subject"];
     $message = $_POST["message"];
     $mail = $_POST["mail"];
+    $backlink = $_POST["backlink"];
     $returnlink = $_POST["returnlink"];
+    $human = $_POST["human"];
+
+    if (!$backlink) {
+        $backlink = "http://www.donjonlegacy.com";
+    }
 
     if (!$returnlink) {
         $returnlink = "http://www.donjonlegacy.com";
     }
 
-    if (!$subject or !$message) {
-        header("Location: " . $returnlink);
+    if (!$subject or !$message or !$mail or !$human) {
+        header("Location: " . $backlink);
         exit;
     }
 

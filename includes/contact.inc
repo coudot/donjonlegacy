@@ -29,7 +29,12 @@
       <textarea name="message" rows="5" required></textarea>
       </div>
       <input type="hidden" name="returnlink" value="<!-- tmpl_var name="returnlink" -->" />
+      <input type="hidden" name="backlink" value="<!-- tmpl_var name="backlink" -->" />
 
+      <div class="col-12">
+          <input type="checkbox" id="human" name="human" />
+          <label for="human"><!-- tmpl_var name="text_contact_human" --></label>
+      </div>
       <div class="col-12">
       <input type="submit" class="primary" />
       </div>

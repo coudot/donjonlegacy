@@ -1,5 +1,6 @@
 title: Contact
 fr-link: /fr/contact.html
+backlink: /en/contact.html
 returnlink: /en/mail.html
 text_menu_watch: Watch
 text_menu_hall: Hall
@@ -22,6 +23,7 @@ text_contact_evening: You want to invit us to an evening
 text_contact_other: Other
 text_contact_nomail: Message delivery not working for now, please reach us trough social networks
 text_contact_mailinput: Your mail address
+text_contact_human: Check this box if you are not a Teignome who send spam to our team
 ----
 
 <!-- tmpl_include name="menu.inc"-->
