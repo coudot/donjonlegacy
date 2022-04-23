@@ -1,15 +1,17 @@
 title: Welcome
 ----
 
-<div class="container">
-    <img src="images/logofullmagicbis.png" class="img-responsive center-block main-logo" alt="DonJon Legacy"/>
-    <p></p>
-    <div class="row">
-      <div class="col-sm-6 text-right">
-        <a href="fr/" class="btn btn-default hvr-bounce-to-right"><img src="/images/fr.png" /> Français</a>
-      </div>
-      <div class="col-sm-6 text-left">
-        <a href="en/" class="btn btn-default hvr-bounce-to-right"><img src="/images/en.png" /> English</a>
-      </div>
-    </div>
-</div>
+            <!-- Main -->
+                <div id="main" class="wrapper style1 hall">
+                    <div class="container">
+
+                        <!-- Content -->
+                            <section id="content">
+                                <img src="/images/logofullmagicbis.png" class="image fit" alt="DonJon Legacy"/>
+                                <ul class="actions fit">
+                                    <li><a href="fr/" class="button primary fit">Français</a></li>
+                                    <li><a href="en/" class="button primary fit">English</a></li>
+                                </ul>
+                            </section>
+                    </div>
+                </div>

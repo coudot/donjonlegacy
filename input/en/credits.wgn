@@ -64,14 +64,6 @@ text_credits_motion_design: motion design
 text_credits_sound_design_mix: sound design/mix
 ----
 
-<!-- tmpl_include name="head.inc"-->
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="credits.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_en.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->

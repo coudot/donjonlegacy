@@ -1,25 +1,25 @@
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+            <!-- Main -->
+                <div id="main" class="wrapper style1 hall">
+                    <div class="container">
+                        <header class="major">
+                            <h2><!-- tmpl_var name="title" --></h2>
+                        </header>
 
-<hr />
+                        <!-- Content -->
+                            <section id="content">
 
-<div class="text-center">
-  <div class="alert alert-djl text-left">
-    <!-- tmpl_var name="text_credits_intro" -->
-  </div>
-</div>
+                                <p><!-- tmpl_var name="text_credits_intro" --></p>
 
-<table class="credits table table-striped">
+                                <div class="table-wrapper">
+<table>
   <tr>
     <th><!-- tmpl_var name="text_credits_creator" --></th>
-    <td>Guilhem <a href="https://www.facebook.com/Guilhem-53297726330/"><i class="fa fa-facebook-official"></i></a> <a href="https://twitter.com/Guilhem0"><i class="fa fa-twitter-square"></i></a> <a href="http://guilhem0.free.fr/"><i class="fa fa-globe"></i></a></td>
+    <td>Guilhem (<a href="https://www.facebook.com/Guilhem-53297726330/">Facebook</a> / <a href="https://twitter.com/Guilhem0">Twitter</a> / <a href="http://guilhem0.free.fr/">Site</a>)</td>
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_director" --></th>
     <td>Olivier Ziel</td>
   </tr>
-</table>
-
-<table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_dungeon_master" --></th>
     <td>Sébastien Sera</td>
@@ -56,9 +56,6 @@
     <th><!-- tmpl_var name="text_credits_stone_truth_voice" --></th>
     <td>Marcus <a href="https://www.facebook.com/Marcus-182459345935/"><i class="fa fa-facebook-official"></i></a></td>
   </tr>
-</table>
-
-<table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_assistant_director" --></th>
     <td>Arnaud Uhl</td>
@@ -111,9 +108,6 @@
     <th><!-- tmpl_var name="text_credits_costume_help" --></th>
     <td>Thomas Vanicatte</td>
   </tr>
-</table>
-
-<table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_editors_motion_designers" --></th>
     <td>Nicolas Brasseur, Olivier Ziel</td>
@@ -180,11 +174,8 @@
   </tr>
   <tr>
     <th><!-- tmpl_var name="text_credits_graphic_designer" --></th>
-    <td>Vincere Studio <a href="http://cargocollective.com/vincere"><i class="fa fa-globe"></i></a></td>
+    <td>Vincere Studio (<a href="http://cargocollective.com/vincere">Site</a>)</td>
   </tr>
-</table>
-
-<table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_managing_help" --></th>
     <td>
@@ -218,9 +209,6 @@
       Vincent Dupuis (Valdarion)<br />
     </td>
   </tr>
-</table>
-
-<table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_special_thanks" --></th>
     <td>
@@ -271,9 +259,6 @@
       ARTE Studio (France 92)<br />
     </td>
   </tr>
-</table>
-
-<table class="credits table table-striped">
   <tr>
     <th><!-- tmpl_var name="text_credits_webmaster" --></th>
     <td>Clément Oudot</td>
@@ -291,3 +276,7 @@
     <td>Thomas Vanicatte</td>
   </tr>
 </table>
+</div>
+</section>
+</div>
+</div>

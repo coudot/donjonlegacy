@@ -1,17 +1,20 @@
-<h1 class="text-center"><!-- tmpl_var name="title" --></h1>
+            <!-- Main -->
+                <div id="main" class="wrapper style1 hall">
+                    <div class="container">
+                        <header class="major">
+                            <h2><!-- tmpl_var name="title" --></h2>
+                        </header>
 
-<hr />
+                        <!-- Content -->
+                            <section id="content">
 
-<div class="text-center">
-  <div class="alert alert-djl text-left">
-    <!-- tmpl_var name="text_friends_intro" -->
-  </div>
-  <a href="/images/cairn-djl.png" alt="Cairn DJL"><img src="/images/cairn-djl_600px.png" class="img-responsive img-thumbnail" /></a>
-</div>
+                                <div class="align-center">
+                                <p><!-- tmpl_var name="text_friends_intro" --></p>
+                                <p><a href="/images/cairn-djl.png" alt="Cairn DJL"><img src="/images/cairn-djl_600px.png" class="img-responsive img-thumbnail" /></a></p>
 
-<div class="row text-center">
+<div class="row">
 
-  <div class="col-sm-6">
+  <div class="col-6 col-12-xsmall">
     <h2><!-- tmpl_var name="text_friends_title_webseries" --></h2>
     <p><a href="https://www.facebook.com/DonjonDeNaheulbeukSerieTv/posts/995069383901514?fref=nf">Donjon de Naheulbeuk</a></p>
     <p><a href="https://twitter.com/ZombieOrpheus/status/704734123932299264">Zombie Orpheus</a><br />(Journey Quest / The Gamers / Darkest Dungeon)</p>
@@ -27,7 +30,7 @@
     <p><a href="https://www.youtube.com/watch?v=4JdALmf8rto">Anthox Collaboy</a></p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-6 col-12-xsmall">
     <h2><!-- tmpl_var name="text_friends_title_interviews" --></h2>
     <p><a href="https://www.facebook.com/petitpointgeek/videos/1480637798661615/">Petit Point Geek - 1</a></p>
     <p><a href="https://www.facebook.com/petitpointgeek/videos/1587049374687123/">Petit Point Geek - 2</a></p>
@@ -37,7 +40,7 @@
     <p><a href="https://www.youtube.com/watch?v=h_M6UvpvW_k">Xavier Mateos</a></p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-6 col-12-xsmall">
     <h2><!-- tmpl_var name="text_friends_title_press" --></h2>
     <p><a href="http://wp.me/p5pSxm-1cP">La Gazette du Geek</a></p>
     <p><a href="https://www.facebook.com/GeeKroniques/posts/987892187968694?fref=nf">Geekroniques</a></p>
@@ -60,7 +63,7 @@
     <p><a href="http://www.leparisien.fr/culture-loisirs/sortir-region-parisienne/sortir-a-paris-bienvenue-dans-un-monde-fantastique-02-11-2017-7369152.php">Le Parisien</a></p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-6 col-12-xsmall">
     <h2><!-- tmpl_var name="text_friends_title_forums" --></h2>
     <p><a href="http://forum.geekzone.fr/t/copinage-donjon-legacy/57527/23">GeekZone</a></p>
     <p><a href="http://www.gamekult.com/forum/topic-webserie-donjon-legacy-885259n.html">GameKult</a></p>
@@ -71,7 +74,7 @@
     <p><a href="http://www.chemins-khatovar.com/forum/viewtopic.php?f=47&t=7184&sid=fcd4853729ba0ccd9d3acd1757d9a23d">Les Chemins de Khatovar</a></p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-6 col-12-xsmall">
     <h2><!-- tmpl_var name="text_friends_title_facegroups" --></h2>
     <p><a href="https://www.facebook.com/groups/EverythingSciFi.and.Fantasy/search/?query=donjon%20legacy">Everything Sci Fi and Fantasy</a></p>
     <p><a href="https://www.facebook.com/groups/1398822120358227/search/?query=donjon%20legacy">Heroic Fantasy et fantastique</a></p>
@@ -87,12 +90,12 @@
     <p><a href="https://www.facebook.com/groups/noobfans/permalink/1020252138062672/?comment_id=1027556767332209&notif_t=group_comment&notif_id=1460861226151967">NOOB & Co</a></p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-6 col-12-xsmall">
     <h2><!-- tmpl_var name="text_friends_title_webbroadcasters" --></h2>
     <p><a href="https://www.reddit.com/r/scifi/">Reddit /scifi</a></p>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-6 col-12-xsmall">
     <h2><!-- tmpl_var name="text_friends_title_festivals" --></h2>
     <p><a href="https://nice-fictions.fr/">Nice Fictions</a></p>
     <p><a href="http://www.trolls-et-legendes.be">Trolls & Légendes</a></p>
@@ -107,4 +110,9 @@
     <p><a href="https://comicconbrussels.com/">Comic Con Brussels</a></p>
   </div>
 
+</div>
+</div>
+
+</section>
+</div>
 </div>

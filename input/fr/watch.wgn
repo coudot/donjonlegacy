@@ -1,6 +1,6 @@
 title: A voir
 en-link: /en/watch.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -30,14 +30,6 @@ text_watch_s02e03: Épisode 3 - Gargouille
 text_watch_s02e04: Épisode 4 - Malédiction
 ----
 
-<!-- tmpl_include name="head.inc"-->
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="watch.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_fr.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->

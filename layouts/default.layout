@@ -1,9 +1,14 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+    Landed by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html lang="fr">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="description" content="DonJon Legacy is a fucking indie comical dungeonary series! It's Bad Fantasy!">
     <meta name="keywords" content="donjon,fantasy,legacy,webserie,indie,comical,dugeon,bad,serie,donjon,comique,indépendant">
     <meta name="author" content="Guilhem">
@@ -30,43 +35,48 @@
     <title>DonJon Legacy</title>
     <!-- /tmpl_if -->
 
-    <!-- Bootstrap CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <!-- <link href="css/bootstrap-theme.min.css" rel="stylesheet"> -->
-
-    <!-- FontAwesome CSS -->
-    <link href="/css/font-awesome.min.css" rel="stylesheet">
-
     <!-- Hover CSS -->
     <link href="/css/hover-min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
 
     <!-- Custom styles for this template -->
     <link href="/css/donjon.css" rel="stylesheet">
 
   </head>
 
-  <body>
-
-  <div id="wrap">
+      <body class="is-preload landing">
+        <div id="page-wrapper">
 
     <!-- tmpl_var name='content' -->
 
-  </div>
 
-  <div id="footer" class="text-center">
-        <a class="btn btn-default" href="https://twitter.com/DonJon_Legacy"><i class="fa fa-twitter"></i><span class="hidden-xs"> Twitter</span></a>
-        <a class="btn btn-default" href="https://www.facebook.com/donjonlegacy"><i class="fa fa-facebook"></i><span class="hidden-xs"> Facebook</span></a>
-        <a class="btn btn-default" href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw"><i class="fa fa-youtube"></i><span class="hidden-xs"> Youtube</span></a>
-        <a class="btn btn-default" href="http://donjonlegacy.tumblr.com/"><i class="fa fa-tumblr"></i><span class="hidden-xs"> Tumblr</span></a>
-        <a class="btn btn-default" href="https://www.instagram.com/donjonlegacy/"><i class="fa fa-instagram"></i><span class="hidden-xs"> Instagram</span></a>
-  </div>
+              <!-- Footer -->
+                <footer id="footer">
+                    <ul class="icons">
+                        <li><a href="https://twitter.com/DonJon_Legacy" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+                        <li><a href="https://www.facebook.com/donjonlegacy" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCVO3scwrW2QEyxiVcBbEbtw" class="icon brands alt fa-youtube"><span class="label">LinkedIn</span></a></li>
+                        <li><a href="https://www.instagram.com/donjonlegacy/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+                    </ul>
+                    <ul class="copyright">
+                        <li>&copy; DonJon Legacy. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                    </ul>
+                </footer>
 
-  <!-- Bootstrap core JavaScript
-  ================================================== -->
-  <!-- Placed at the end of the document so the pages load faster -->
-  <script src="/js/jquery-1.10.2.min.js"></script>
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/djl.js"></script>
+        </div>
+
+        <!-- Scripts -->
+            <script src="/assets/js/jquery.min.js"></script>
+            <script src="/assets/js/jquery.scrolly.min.js"></script>
+            <script src="/assets/js/jquery.dropotron.min.js"></script>
+            <script src="/assets/js/jquery.scrollex.min.js"></script>
+            <script src="/assets/js/browser.min.js"></script>
+            <script src="/assets/js/breakpoints.min.js"></script>
+            <script src="/assets/js/util.js"></script>
+            <script src="/assets/js/main.js"></script>
+
 
   </body>
 

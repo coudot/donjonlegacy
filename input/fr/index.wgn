@@ -1,6 +1,6 @@
 title: Accueil
 en-link: /en/index.html
-text_menu_watch: À voir
+text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
 text_menu_credits: Crédits
@@ -19,16 +19,12 @@ text_home_calendar_summer: Été
 text_home_calendar_january: Janvier
 text_home_calendar_201607: Saison 1 complète en streaming
 text_home_calendar_201701: Saison 2 - épisode 1 en streaming
+text_home_banner: Une série de Bad Fantasy complètement déjantée
+text_home_watchall: Voir tous les épisodes
 ----
-
-<!-- tmpl_include name="head.inc"-->
 
 <!-- tmpl_include name="menu.inc"-->
 
+<!-- tmpl_include name="banner.inc"-->
+
 <!-- tmpl_include name="home.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_fr.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->

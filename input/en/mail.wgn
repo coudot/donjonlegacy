@@ -11,14 +11,6 @@ text_menu_awards: Awards
 text_mail_read: We are fighting to read you!
 ----
 
-<!-- tmpl_include name="head.inc"-->
-
 <!-- tmpl_include name="menu.inc"-->
 
 <!-- tmpl_include name="mail.inc"-->
-
-<!-- tmpl_include name="menu_foot.inc"-->
-
-<!-- tmpl_include name="banner_en.inc"-->
-
-<!-- tmpl_include name="foot.inc"-->
