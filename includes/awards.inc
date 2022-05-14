@@ -1,5 +1,5 @@
             <!-- Main -->
-                <div id="main" class="wrapper style1 hall">
+                <div id="main" class="wrapper style2">
                     <div class="container">
                         <header class="major">
                             <h2><!-- tmpl_var name="text_awards_season1" --></h2>
@@ -9,6 +9,8 @@
                             <section id="content">
 
 <h2 class="align-center"><!-- tmpl_var name="title" --></h3>
+
+<div class="align-center"><a href="https://lavillette.com/programmation/comic-con-paris_e154"><img src="/images/COMICCON2018_award_best_webserie.png" class="image" alt="Comic Con 2018 - Best Webserie" title="Comic Con 2018 - Best Webserie" /></a><h3>Comic Con 2018 - Best Webserie</h3></div>
 
 <div class="row gtr-50 gtr-uniform">
 
