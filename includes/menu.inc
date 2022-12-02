@@ -12,6 +12,7 @@
                         <li><a href="friends.html"></i><!-- tmpl_var name="text_menu_friends" --></a></li>
                         <li><a href="awards.html"></i><!-- tmpl_var name="text_menu_awards" --></a></li>
                         <li><a href="events.html"></i><!-- tmpl_var name="text_menu_events" --></a></li>
+                        <li><a href="https://utip.io/donjonlegacy/shop" target="_blank"></i><!-- tmpl_var name="text_menu_shop" --></a></li>
                         <!-- tmpl_if name="fr-link" -->
                         <li><a href="<!-- tmpl_var name="fr-link" -->" class="button primary"><img src="/images/fr.png" alt="fr" /></a></li>
                         <!-- /tmpl_if -->
