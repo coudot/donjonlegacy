@@ -30,6 +30,13 @@ text_watch_s02e01: Épisode 1 - Le verjus
 text_watch_s02e02: Épisode 2 - Le démon squelette
 text_watch_s02e03: Épisode 3 - Gargouille
 text_watch_s02e04: Épisode 4 - Malédiction
+text_watch_special: Épisodes Hors Série
+text_watch_hse01: Hors Série 1/6 - Défi qui s'en dédit
+text_watch_hse02: Hors Série 2/6 - La Pierre de permutation
+text_watch_hse03: Hors Série 3/6 - L'Elfe doit mourir
+text_watch_hse04: Hors Série 4/6 - Sortir du miroir
+text_watch_hse05: Hors Série 5/6 - L'Anniversaire d'Utz
+text_watch_hse06: Hors Série 6/6 - Guerre et pets
 ----
 
 <!-- tmpl_include name="menu.inc"-->

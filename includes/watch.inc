@@ -11,7 +11,7 @@
                         <!-- Content -->
                         <section id="content">
                             <div class="row">
-                                <div class="col-6 col-12-xsmall">
+                                <div class="col-4 col-12-xsmall">
                                     <h2><tmpl_var name="text_watch_season" /> 1</h2>
                                     <p><a class="button primary fit" href="https://www.youtube.com/playlist?list=PLMKApLOreTVQzZmzbVQonTA1pVdhyEH_W"><tmpl_var name="text_watch_season1_playlist" /></a></p>
                                     <ul class="alt">
@@ -29,13 +29,24 @@
                                     <p><a class="button fit" href="https://www.youtube.com/watch?v=RMXDqLgdjBg">Teaser</a></p>
                                     <p><a class="button fit" href="https://www.youtube.com/watch?v=1GtwdA92f6U"><tmpl_var name="text_watch_trailer" /></a></p>
                                 </div>
-                                <div class="col-6 col-12-xsmall">
+                                <div class="col-4 col-12-xsmall">
                                     <h2><tmpl_var name="text_watch_season" /> 2</h2>
                                     <ul class="alt">
                                         <li><a href="https://www.youtube.com/watch?v=rWhaQBglm4k"><tmpl_var name="text_watch_s02e01" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=3Kpat2stI-0"><tmpl_var name="text_watch_s02e02" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=xf03TiTIrgk"><tmpl_var name="text_watch_s02e03" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=awmbm__m4i8"><tmpl_var name="text_watch_s02e04" /></a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-4 col-12-xsmall">
+                                    <h2><tmpl_var name="text_watch_special" /></h2>
+                                    <ul class="alt">
+                                        <li><a href="https://www.youtube.com/watch?v=8dBmxDyn_Dk"><tmpl_var name="text_watch_hse01" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=reK6l5PaVak"><tmpl_var name="text_watch_hse02" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=1qKdPPiyw_8"><tmpl_var name="text_watch_hse03" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=sQoyPOgVBVo"><tmpl_var name="text_watch_hse04" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=ERLI0Lf2ve4"><tmpl_var name="text_watch_hse05" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=LiYeuLAcwiY"><tmpl_var name="text_watch_hse06" /></a></li>
                                     </ul>
                                 </div>
                             </div>
