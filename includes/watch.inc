@@ -37,6 +37,7 @@
                                         <li><a href="https://www.youtube.com/watch?v=xf03TiTIrgk"><tmpl_var name="text_watch_s02e03" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=awmbm__m4i8"><tmpl_var name="text_watch_s02e04" /></a></li>
                                     </ul>
+                                    <p><a class="button fit" href="https://www.youtube.com/watch?v=jThGk9N1nyc">Teaser</a></p>
                                 </div>
                                 <div class="col-4 col-12-xsmall">
                                     <h2><tmpl_var name="text_watch_special" /></h2>
