@@ -36,6 +36,14 @@ text_watch_hse03: Hors Série 3/6 - L'Elfe doit mourir
 text_watch_hse04: Hors Série 4/6 - Sortir du miroir
 text_watch_hse05: Hors Série 5/6 - L'Anniversaire d'Utz
 text_watch_hse06: Hors Série 6/6 - Guerre et pets
+text_watch_covidseries: Les épisodes COVID - Que sont-ils devenus ?
+text_watch_cov01: Lilith, maitresse en maternelle
+text_watch_cov02: Mido, gigolo en EHPAD
+text_watch_cov03: Teignome, PDG de Castra Zenecouille
+text_watch_cov04: Utz, livreur Deliverutz
+text_watch_cov05: Jon, clodo et poivrot
+text_watch_cov06: Erratum de Jon
+text_watch_cov07: Le retour au donjon
 ----
 
 <!-- tmpl_include name="menu.inc"-->

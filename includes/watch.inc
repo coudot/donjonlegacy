@@ -49,6 +49,16 @@
                                         <li><a href="https://www.youtube.com/watch?v=ERLI0Lf2ve4" target="_blank"><tmpl_var name="text_watch_hse05" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=LiYeuLAcwiY" target="_blank"><tmpl_var name="text_watch_hse06" /></a></li>
                                     </ul>
+                                    <h2><tmpl_var name="text_watch_covidseries" /></h2>
+                                    <ul class="alt">
+                                        <li><a href="https://www.youtube.com/watch?v=cIsECgObj54" target="_blank"><tmpl_var name="text_watch_cov01" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=0Y1agw9wloU" target="_blank"><tmpl_var name="text_watch_cov02" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=uHmx7gMC1Rw" target="_blank"><tmpl_var name="text_watch_cov03" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=xEcoLe1tQIU" target="_blank"><tmpl_var name="text_watch_cov04" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=TGGSmIxtORg" target="_blank"><tmpl_var name="text_watch_cov05" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=-ZrCIvW0l38" target="_blank"><tmpl_var name="text_watch_cov06" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=-7FdqivDYfU" target="_blank"><tmpl_var name="text_watch_cov07" /></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </section>
