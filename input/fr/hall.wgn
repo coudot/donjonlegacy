@@ -9,7 +9,6 @@ text_menu_friends: Amis
 text_menu_press: Presse
 text_menu_awards: Récompenses
 text_menu_events: Événements
-text_menu_shop: Boutique
 defenders: file_glob(hall/defenders*.wgn)
 text_hall_defenders: Les Defenseurs
 text_hall_firstname: Prénom
