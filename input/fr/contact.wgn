@@ -1,7 +1,5 @@
 title: Contact
 en-link: /en/contact.html
-backlink: /fr/contact.html
-returnlink: /fr/mail.html
 text_menu_watch: Regarder
 text_menu_hall: Hall
 text_menu_dungeon: Donjon
@@ -11,20 +9,8 @@ text_menu_friends: Amis
 text_menu_press: Presse
 text_menu_awards: Récompenses
 text_menu_events: Événements
-text_contact_press_release: Dossier de presse
-text_contact_download: Télécharger le dossier de presse
 text_contact_mail: Nous envoyer un message
-text_contact_read: Nous nous battrons pour vous lire
-text_contact_team: Vous voulez écrire à l'équipe
-text_contact_help: Vous voulez proposer votre aide
-text_contact_interview: Vous êtes journaliste
-text_contact_productor: Vous êtes producteur / diffuseur
-text_contact_advertiser: Vous êtes annonceur
-text_contact_evening: Vous voulez nous inviter à un événement
-text_contact_other: Autres
-text_contact_nomail: Envoi de message temporairement non fonctionnel, merci de nous contacter par les réseaux sociaux
-text_contact_mailinput: Votre adresse mail
-text_contact_human: Cochez cette case si vous n'êtes pas un Teignome qui envoie du spam à notre équipe
+text_contact_socialnetworks: Contactez-nous via nos comptes sur les réseaux sociaux :
 ----
 
 <!-- tmpl_include name="menu.inc"-->

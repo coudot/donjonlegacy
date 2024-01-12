@@ -8,40 +8,12 @@
                         <!-- Content -->
                             <section id="content">
 
-
-    <form action="/mail.php" method="post">
-    <div class="row gtr-uniform gtr-50">
-      <div class="col-12">
-      <select name="subject" required>
-        <option value="<!-- tmpl_var name="text_contact_team" -->"><!-- tmpl_var name="text_contact_team" --></option>
-        <option value="<!-- tmpl_var name="text_contact_help" -->"><!-- tmpl_var name="text_contact_help" --></option>
-        <option value="<!-- tmpl_var name="text_contact_interview" -->"><!-- tmpl_var name="text_contact_interview" --></option>
-        <option value="<!-- tmpl_var name="text_contact_productor" -->"><!-- tmpl_var name="text_contact_productor" --></option>
-        <option value="<!-- tmpl_var name="text_contact_advertiser" -->"><!-- tmpl_var name="text_contact_advertiser" --></option>
-        <option value="<!-- tmpl_var name="text_contact_evening" -->"><!-- tmpl_var name="text_contact_evening" --></option>
-        <option value="<!-- tmpl_var name="text_contact_other" -->"><!-- tmpl_var name="text_contact_other" --></option>
-      </select>
-      </div>
-      <div class="col-12">
-      <input type="text" name="mail" placeholder="<!-- tmpl_var name="text_contact_mailinput" -->" required/>
-      </div>
-      <div class="col-12">
-      <textarea name="message" rows="5" required></textarea>
-      </div>
-      <input type="hidden" name="returnlink" value="<!-- tmpl_var name="returnlink" -->" />
-      <input type="hidden" name="backlink" value="<!-- tmpl_var name="backlink" -->" />
-
-      <div class="col-12">
-          <input type="checkbox" id="human" name="human" />
-          <label for="human"><!-- tmpl_var name="text_contact_human" --></label>
-      </div>
-      <div class="col-12">
-      <input type="submit" class="primary" />
-      </div>
-    </div>
-    </form>
-
-
-</section>
-</div>
-</div>
+                            <p><!-- tmpl_var name="text_contact_socialnetworks" --></p>
+                            <ul>
+                                <li><a href="https://www.facebook.com/donjonlegacy" target="_blank">Facebook</a></li>
+                                <li><a href="https://ludosphere.fr/@onzecreation" target="_blank">Mastodon</a></li>
+                                <li><a href="https://twitter.com/DonJon_Legacy" target="_blank">X / Twitter</a></li>
+                            </ul>
+                            </section>
+                        </div>
+                    </div>

@@ -1,7 +1,5 @@
 title: Contact
 fr-link: /fr/contact.html
-backlink: /en/contact.html
-returnlink: /en/mail.html
 text_menu_watch: Watch
 text_menu_hall: Hall
 text_menu_dungeon: Dungeon
@@ -11,20 +9,8 @@ text_menu_friends: Friends
 text_menu_press: Press
 text_menu_awards: Awards
 text_menu_events: Events
-text_contact_press_release: Press release 
-text_contact_download: Download the press release
 text_contact_mail: Send us a message
-text_contact_read: We are fighting to read you 
-text_contact_team: You would like to write to the team 
-text_contact_help: You would like to help
-text_contact_interview: You would like to have an interview
-text_contact_productor: You're productor / broadcaster
-text_contact_advertiser: You're an advertiser
-text_contact_evening: You want to invit us to an evening
-text_contact_other: Other
-text_contact_nomail: Message delivery not working for now, please reach us trough social networks
-text_contact_mailinput: Your mail address
-text_contact_human: Check this box if you are not a Teignome who send spam to our team
+text_contact_socialnetworks: Contact us through our accounts on social networks:
 ----
 
 <!-- tmpl_include name="menu.inc"-->
