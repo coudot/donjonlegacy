@@ -14,6 +14,26 @@
                             <div class="row">
 
                             <div class="col-4 col-12-xsmall">
+                            </div>
+
+                            <div class="col-4 col-12-xsmall">
+                            <h2>2023</h2>
+                            <ul>
+                            <li>Japan Expo Paris</li>
+                            <li>Salon Fantastique de Paris</li>
+                            <li>Avant-Première aux Caves St-Sabin (Paris)</li>
+                            <li>Avant-Première au Hasard Ludique</li>
+                            </ul>
+                            </div>
+
+                            <div class="col-4 col-12-xsmall">
+                            </div>
+
+                            </div>
+
+                            <div class="row">
+
+                            <div class="col-4 col-12-xsmall">
                             <h2>2019</h2>
                             <ul>
                             <li>Colmar Esport Show 2019</li>
