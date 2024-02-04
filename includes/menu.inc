@@ -4,6 +4,7 @@
                     <nav id="nav">
                         <ul>
                         <li><a href="watch.html"><!-- tmpl_var name="text_menu_watch" --></a></li>
+                        <li><a href="https://www.helloasso.com/associations/onze-creation/collectes/vers-une-saison-3-de-donjon-legacy" target="_blank" class="button">Saison 3 ?</a></li>
                         <li><a href="hall.html"><!-- tmpl_var name="text_menu_hall" --></a></li>
                         <li><a href="dungeon.html"></i><!-- tmpl_var name="text_menu_dungeon" --></a></li>
                         <li><a href="credits.html"></i><!-- tmpl_var name="text_menu_credits" --></a></li>
