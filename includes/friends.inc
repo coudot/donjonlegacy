@@ -9,6 +9,12 @@
                             <section id="content">
 
                                 <div class="align-center">
+
+                                
+                                <p><!-- tmpl_var name="text_friends_guests" --></p>
+                                <p><img src="/images/guests-donjon-legacy.png" class="img-responsive img-thumbnail" /></p>
+                                <p><i>Gastronogeek, Brigitte Lecordier, Baptiste Lecaplain, Davy Mourier, Frédéric Zolfanelli, Monsieur Phal, Marcus, Linguisticae, Moustafa Benaibout, Lucien Maine, Bob Lennon, Sébastien Mortamet</i></p>
+
                                 <p><!-- tmpl_var name="text_friends_intro" --></p>
                                 <p><a href="/images/cairn-djl.png" alt="Cairn DJL"><img src="/images/cairn-djl_600px.png" class="img-responsive img-thumbnail" /></a></p>
 

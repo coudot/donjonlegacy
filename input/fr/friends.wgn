@@ -17,6 +17,7 @@ text_friends_title_forums: Forums
 text_friends_title_facegroups: Facegroupes
 text_friends_title_webbroadcasters: Diffuseurs Web
 text_friends_title_festivals: Festivals
+text_friends_guests: Merci à nos invités d'être venus collaborer à la série !
 ----
 
 <!-- tmpl_include name="menu.inc"-->
