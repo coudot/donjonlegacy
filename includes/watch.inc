@@ -37,6 +37,7 @@
                                         <li><a href="https://www.youtube.com/watch?v=xf03TiTIrgk" target="_blank"><tmpl_var name="text_watch_s02e03" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=awmbm__m4i8" target="_blank"><tmpl_var name="text_watch_s02e04" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=Ey0fx8KRJSA" target="_blank"><tmpl_var name="text_watch_s02e05" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=9hjk7ij7BqE" target="_blank"><tmpl_var name="text_watch_s02e06" /></a></li>
                                     </ul>
                                     <p><a class="button fit" href="https://www.youtube.com/watch?v=jThGk9N1nyc" target="_blank">Teaser</a></p>
                                 </div>
