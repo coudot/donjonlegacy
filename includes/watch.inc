@@ -31,6 +31,7 @@
                                 </div>
                                 <div class="col-4 col-12-xsmall">
                                     <h2><tmpl_var name="text_watch_season" /> 2</h2>
+                                    <p><a class="button primary fit" href="https://www.youtube.com/watch?v=rWhaQBglm4k&list=PLMKApLOreTVTCgpzhgCc0XeSm3nV5JpY0" target="_blank"><tmpl_var name="text_watch_season2_playlist" /></a></p>
                                     <ul class="alt">
                                         <li><a href="https://www.youtube.com/watch?v=rWhaQBglm4k" target="_blank"><tmpl_var name="text_watch_s02e01" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=3Kpat2stI-0" target="_blank"><tmpl_var name="text_watch_s02e02" /></a></li>
@@ -39,6 +40,9 @@
                                         <li><a href="https://www.youtube.com/watch?v=Ey0fx8KRJSA" target="_blank"><tmpl_var name="text_watch_s02e05" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=9hjk7ij7BqE" target="_blank"><tmpl_var name="text_watch_s02e06" /></a></li>
                                         <li><a href="https://www.youtube.com/watch?v=_I0sJxe_wxw" target="_blank"><tmpl_var name="text_watch_s02e07" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=Zy965CP2Sko" target="_blank"><tmpl_var name="text_watch_s02e08" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=JYQYVN_Y5tE" target="_blank"><tmpl_var name="text_watch_s02e09" /></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=mGPCEHxGUro" target="_blank"><tmpl_var name="text_watch_s02e10" /></a></li>
                                     </ul>
                                     <p><a class="button fit" href="https://www.youtube.com/watch?v=jThGk9N1nyc" target="_blank">Teaser</a></p>
                                 </div>

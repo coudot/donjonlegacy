@@ -13,6 +13,7 @@ text_watch_channels: Retrouvez tous les épisodes sur
 text_watch_season: Saison
 text_watch_subtitles: Version française / sous-titres anglais, italien, allemand, espagnol
 text_watch_trailer: Bande annonce
+text_watch_season1_playlist: Intégrale de la saison 1
 text_watch_s01e01: Épisode 1 - Faux départ
 text_watch_s01e02: Épisode 2 - Maladresse
 text_watch_s01e03: Épisode 3 - Le rêve
@@ -23,15 +24,17 @@ text_watch_s01e07: Épisode 7 - Le machiniste
 text_watch_s01e08: Épisode 8 - Le teignome
 text_watch_s01e09: Épisode 9 - Le pillard
 text_watch_s01ebonus: Épisode bonus - La faute
-text_watch_season2: Travail en cours
-text_watch_season1_playlist: Intégrale de la saison
+text_watch_season2_playlist: Intégrale de la saison 2
 text_watch_s02e01: Épisode 1 - Le verjus
 text_watch_s02e02: Épisode 2 - Le démon squelette
 text_watch_s02e03: Épisode 3 - Gargouille
 text_watch_s02e04: Épisode 4 - Malédiction
 text_watch_s02e05: Épisode 5 - Tarte aux pommes
 text_watch_s02e06: Épisode 6 - La réclamation
-text_watch_s02e06: Épisode 7 - Main baladeuse
+text_watch_s02e07: Épisode 7 - Main baladeuse
+text_watch_s02e08: Épisode 8 - L'elfe de ménage
+text_watch_s02e09: Épisode 9 - Teuffeurs
+text_watch_s02e10: Épisode 10 - Le dernier
 text_watch_special: Épisodes Hors Série
 text_watch_hse01: Hors Série 1/6 - Défi qui s'en dédit
 text_watch_hse02: Hors Série 2/6 - La Pierre de permutation
