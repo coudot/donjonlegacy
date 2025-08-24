@@ -14,6 +14,18 @@
                             <div class="row">
 
                             <div class="col-4 col-12-xsmall">
+                            <h2>2025</h2>
+                            <ul>
+                            <li>Salon Fantastique de Paris</li>
+                            </ul>
+                            </div>
+
+                            <div class="col-4 col-12-xsmall">
+                            <h2>2024</h2>
+                            <ul>
+                            <li>Japan Expo Paris</li>
+                            <li>Salon Fantastique de Paris</li>
+                            </ul>
                             </div>
 
                             <div class="col-4 col-12-xsmall">
@@ -24,9 +36,6 @@
                             <li>Avant-Première aux Caves St-Sabin (Paris)</li>
                             <li>Avant-Première au Hasard Ludique</li>
                             </ul>
-                            </div>
-
-                            <div class="col-4 col-12-xsmall">
                             </div>
 
                             </div>
